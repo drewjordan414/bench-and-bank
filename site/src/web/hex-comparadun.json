@@ -1,0 +1,76 @@
+{
+  "id": "hex-comparadun",
+  "name": "Hex Comparadun (Extended Body)",
+  "kind": "Dry Fly",
+  "imitates": "A big extended-body Hexagenia dun for the twilight and night hatch; the deer hair wing and optional hackle make it float well when you cannot see it.",
+  "sizes": "#10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 100BL #10"
+    ],
+    [
+      "Thread",
+      "Uni-Thread 8/0 yellow or tan"
+    ],
+    [
+      "Extended body",
+      "30 lb monofilament or wild boar hair"
+    ],
+    [
+      "Tail",
+      "Ginger Microfibetts"
+    ],
+    [
+      "Body",
+      "Yellowish-tan dubbing"
+    ],
+    [
+      "Wing",
+      "Deer hair, comparadun style"
+    ],
+    [
+      "Hackle",
+      "Optional dry fly hackle behind the wing"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap thread on the shank and use it to bind a long piece of 30 lb monofilament to the hook. Leave it long so you have something to grab.",
+      "img": "img/hex-comparadun/1.jpg"
+    },
+    {
+      "text": "Tie in ginger Microfibett tail fibers at the bend so the tail extends well past the hook; the mono can be the same length and is trimmed later.",
+      "img": "img/hex-comparadun/2.jpg"
+    },
+    {
+      "text": "Reverse the hook 180 degrees and stick the point into the vise jaws, which makes tying the extended body on the mono much easier.",
+      "img": "img/hex-comparadun/3.jpg"
+    },
+    {
+      "text": "Wrap thread around the mono and tail fibers as far back as the body extension needs to be.",
+      "img": "img/hex-comparadun/4.jpg"
+    },
+    {
+      "text": "Twist tan-yellow dubbing on the thread and wrap it along the mono toward the hook bend, then turn the hook back around in the vise.",
+      "img": "img/hex-comparadun/5.jpg"
+    },
+    {
+      "text": "Trim the excess mono, move the thread forward and tie in a deer hair clump about as long as the whole body as a comparadun wing.",
+      "img": "img/hex-comparadun/6.jpg"
+    },
+    {
+      "text": "Pull the wing back and tie a smaller clump in front of it, tips toward the bend, to hold the wing up. Wrap back and dub the rest of the body, add 3-4 turns of hackle behind the wing if you like, then dub in front of the wing and whip finish.",
+      "img": "img/hex-comparadun/7.jpg"
+    },
+    {
+      "text": "Trim the hackle underneath so the fly lies flush on the water. The finished flies.",
+      "img": "img/hex-comparadun/8.jpg"
+    }
+  ],
+  "source": {
+    "name": "Wisconsin Fly Fishing for Trout (WiFlyFisher)",
+    "author": "John Simonson",
+    "url": "https://wiflyfisher.com/Hexagenia-Comparadun-Dry-Fly-Pattern.asp"
+  }
+}

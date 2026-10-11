@@ -1,0 +1,108 @@
+{
+  "id": "kaufmanns-stone",
+  "name": "Kaufmann's Stone",
+  "kind": "Nymph",
+  "imitates": "A heavy, shaggy western stonefly nymph (tied brown here; golden and black in other colors) fished on the bottom ahead of and during the big stonefly hatches.",
+  "sizes": "#2–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 300 #2-10"
+    ],
+    [
+      "Thread",
+      "Black 3/0 Monocord"
+    ],
+    [
+      "Weight",
+      ".035 lead wire"
+    ],
+    [
+      "Tail",
+      "Brown goose biots"
+    ],
+    [
+      "Rib",
+      "Brown V-Rib, medium"
+    ],
+    [
+      "Abdomen",
+      "Shaggy dubbing, brown seal"
+    ],
+    [
+      "Wingcase",
+      "Mottled brown turkey quill sections"
+    ],
+    [
+      "Thorax",
+      "Same dubbing as the abdomen"
+    ],
+    [
+      "Antennae",
+      "Brown goose biots"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Lay a thread base, then bind a length of lead wire along each side of the shank from a few eye lengths back to just before the point. Cross-hatch thread over the wire and coat it with head cement. Add eight to ten wraps of lead at the front.",
+      "img": "img/kaufmanns-stone/1.jpg"
+    },
+    {
+      "text": "Dub a small ball at the bend above the barb. Tie in two opposed brown goose biots, each as long as the hook gap, one on each side of the ball, as the tails. Trim the butts and taper a thread base over them.",
+      "img": "img/kaufmanns-stone/2.jpg"
+    },
+    {
+      "text": "Cut a piece of V-Rib and tie it in flat side up at the back of the lead wraps, binding it down to the base of the tails.",
+      "img": "img/kaufmanns-stone/3.jpg"
+    },
+    {
+      "text": "Dub a heavy abdomen from the tail base to the two-thirds point, then cover the remaining lead wraps with a thin layer of dubbing.",
+      "img": "img/kaufmanns-stone/4.jpg"
+    },
+    {
+      "text": "Spiral the V-Rib forward through the abdomen, tie off and clip.",
+      "img": "img/kaufmanns-stone/5.jpg"
+    },
+    {
+      "text": "Spray a mottled turkey quill with fixative and clip three straight slips, each about as wide as the hook gap.",
+      "img": "img/kaufmanns-stone/6.jpg"
+    },
+    {
+      "text": "Fold the butt of one slip and clip it at an angle to make a V-shaped notch.",
+      "img": "img/kaufmanns-stone/7.jpg"
+    },
+    {
+      "text": "Tie the first slip on top of the fly with the tips reaching the 50 percent point and the base flush against the front of the abdomen. Trim the butts and cover the stubs with thread.",
+      "img": "img/kaufmanns-stone/8.jpg"
+    },
+    {
+      "text": "Dub the thorax heavily, then tie in the second wingcase so its tips reach just beyond the base of the first.",
+      "img": "img/kaufmanns-stone/9.jpg"
+    },
+    {
+      "text": "Dub another section of thorax and tie in the third wingcase on bare shank so it cups the front of the thorax. Trim the butts and smooth with thread.",
+      "img": "img/kaufmanns-stone/10.jpg"
+    },
+    {
+      "text": "Tie a pair of opposed biots in on each side as antennae, dub a small head, and whip finish.",
+      "img": "img/kaufmanns-stone/11.jpg"
+    },
+    {
+      "text": "Pick out the thorax dubbing with a brush or Velcro, drawing the fibers out to the sides as legs.",
+      "img": "img/kaufmanns-stone/12.jpg"
+    },
+    {
+      "text": "Pinch the thorax and bend it slightly downward for the humped-back look of a drifting stonefly, not too much.",
+      "img": "img/kaufmanns-stone/13.jpg"
+    },
+    {
+      "text": "The finished Kaufmann's Stone, side view.",
+      "img": "img/kaufmanns-stone/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/kaufmann-s-stone"
+  }
+}

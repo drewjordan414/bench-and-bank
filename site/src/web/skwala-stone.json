@@ -1,0 +1,16 @@
+{
+  "id": "skwala-stone",
+  "name": "Skwala Stonefly Adult",
+  "kind": "Dry Fly",
+  "imitates": "The olive-and-yellow adult skwala stonefly of late winter and early spring, with a short tail, dark moose wing and a small parachute post; fish it along the banks in the first warm spells.",
+  "sizes": "#8–12",
+  "recipe": [["Hook", "Daiichi 1260 #8-12"], ["Thread", "Olive 8/0"], ["Tail", "Dark moose body hair"], ["Body", "Pale yellow dubbing, a little olive mixed in"], ["Rib", "Black midge V-Rib"], ["Egg sac", "Black dubbing"], ["Underwing", "Black Crystal Flash"], ["Wing", "Dark moose body hair"], ["Post", "Calf body hair or white synthetic"], ["Hackle", "Grizzly saddle dyed brown"], ["Legs", "Black stretch floss"]],
+  "steps": [
+    {"text": "Smash the barb, coat the shank with a thin layer of Flexament, and cover it with thread. Just above the barb tie on a small unstacked clump of moose body hair as a short tail.", "img": "img/skwala-stone/1.jpg"},
+    {"text": "At the same spot dub a small black egg-sac ball and tie in black V-Rib. Dub a medium pale yellow body with a little olive mixed in, ending about a third of a shank behind the eye. Color the top with an olive marker.", "img": "img/skwala-stone/2.jpg"},
+    {"text": "Stretch the V-Rib thin and rib the body in even turns. At the front of the body tie in about eight strands of black Crystal Flash and a clean clump of moose body hair, reaching to the end of the tail.", "img": "img/skwala-stone/3.jpg"},
+    {"text": "Tie a small clump of calf hair or white synthetic at the wing base and trim it to about 3/8 inch as the post. Fold a strand of stretch floss over the post and tie it down so the two ends form an X of legs, with a tiny drop of glue at the post base.", "img": "img/skwala-stone/4.jpg"},
+    {"text": "Tie in a saddle hackle at the post base, dub over the tie-in, and wind it up and back down the post. Tie off behind the eye, form a small head and whip finish. The finished fly.", "img": "img/skwala-stone/5.jpg"}
+  ],
+  "source": {"name": "Spring Creek Flycraft and Guide Service (GB Flycasters pattern page)", "author": "", "url": "https://gbflycasters.org/fly_tying/patterns/Skwala%20Stone/Skwala_Stone.htm"}
+}

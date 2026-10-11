@@ -1,0 +1,24 @@
+{
+  "id": "cdc-golden-stone",
+  "name": "CDC Golden Stone",
+  "kind": "Nymph",
+  "imitates": "A golden stonefly nymph with a soft CDC and hen collar that pulses in the current; fish it deep on western freestone rivers, especially before and during the hatch.",
+  "sizes": "#8–16",
+  "recipe": [["Hook", "Tiemco 5262 #8-16"], ["Bead", "Gold tungsten, sized to hook"], ["Weight", "Lead wire"], ["Thread", "Yellow 70 denier"], ["Tail", "Dyed yellow pheasant-tail fibers"], ["Rib", "4X nylon monofilament"], ["Flashback", "Mirage saltwater flash"], ["Abdomen", "Golden brown nymph dubbing"], ["Thorax", "Same as abdomen"], ["Legs", "Natural brown CDC, wrapped as a collar"], ["Collar", "Grizzly hen saddle dyed gold"]],
+  "steps": [
+    {"text": "Slide the bead on the hook, add several turns of lead wire and push them into the back of the bead. Build a thread dam tapering up to the lead, wrap forward over it to the bead, and back to the bend.", "img": "img/cdc-golden-stone/1.jpg"},
+    {"text": "Tie in a heavy clump of dyed yellow pheasant-tail fibers at the bend, half a shank long, as the tail. Wrap forward over the butts and clip them.", "img": "img/cdc-golden-stone/2.jpg"},
+    {"text": "Tie in 4X monofilament along the far side at the front, and wrap back over it to the bend.", "img": "img/cdc-golden-stone/3.jpg"},
+    {"text": "Return the thread to the top of the lead wraps, tie in a length of Mirage flash, and wrap back over it to the bend, keeping it centered.", "img": "img/cdc-golden-stone/4.jpg"},
+    {"text": "Dub a tapered abdomen from the bend up to the 75 percent point.", "img": "img/cdc-golden-stone/5.jpg"},
+    {"text": "Pull the flash over the top of the abdomen and secure it. Spiral the mono rib forward, pulling hard to crease and segment the flash, then tie off and clip.", "img": "img/cdc-golden-stone/6.jpg"},
+    {"text": "Dub a thick thorax that slightly overlaps the front of the abdomen, leaving a gap behind the bead.", "img": "img/cdc-golden-stone/7.jpg"},
+    {"text": "Preen a CDC feather so the fibers stand out, peel the fluff from the base, and tie in its tip just behind the bead with the inside facing the tail.", "img": "img/cdc-golden-stone/8.jpg"},
+    {"text": "Wrap the CDC forward two or three turns like a soft hackle, sweeping the fibers back after each turn. Tie off and clip.", "img": "img/cdc-golden-stone/9.jpg"},
+    {"text": "Prepare a gold-dyed grizzly hen saddle feather and tie it in just in front of the CDC collar.", "img": "img/cdc-golden-stone/10.jpg"},
+    {"text": "Fold the hen feather as you did the CDC and wrap it forward two turns, folding the fibers back. Tie off and clip.", "img": "img/cdc-golden-stone/11.jpg"},
+    {"text": "Dub a small collar between the bead and the hackle, then whip finish just behind the bead.", "img": "img/cdc-golden-stone/12.jpg"},
+    {"text": "The finished CDC Golden Stone.", "img": "img/cdc-golden-stone/13.jpg"}
+  ],
+  "source": {"name": "Fly Fisherman", "author": "Charlie Craven", "url": "https://www.flyfisherman.com/editorial/fly-tying-the-cdc-golden-stone/152872"}
+}

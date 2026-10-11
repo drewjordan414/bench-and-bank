@@ -1,0 +1,72 @@
+{
+  "id": "rs2",
+  "name": "RS2",
+  "kind": "Nymph",
+  "imitates": "A small mayfly or midge emerger, especially baetis and midges; a staple tailwater pattern for fish rising to emergers.",
+  "sizes": "#16–22",
+  "recipe": [
+    [
+      "Hook",
+      "Dry fly hook, #20 shown (Hanak H130BL)"
+    ],
+    [
+      "Thread",
+      "Olive 14/0"
+    ],
+    [
+      "Tail",
+      "Two microfibbets"
+    ],
+    [
+      "Abdomen",
+      "Superfine dubbing, blue dun"
+    ],
+    [
+      "Wing",
+      "CDC, white"
+    ],
+    [
+      "Thorax",
+      "Superfine dubbing, black"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "With the hook level in the vise, start the thread about a quarter shank length behind the eye and wrap forward a few turns to lock it.",
+      "img": "img/rs2/1.jpg"
+    },
+    {
+      "text": "Tie in two microfibbets about twice the hook shank in length and bind them down back to the start of the bend.",
+      "img": "img/rs2/2.jpg"
+    },
+    {
+      "text": "Split the tails by passing a short piece of thread around the bend between the two fibbets, then pulling it over the top of the shank.",
+      "img": "img/rs2/3.jpg"
+    },
+    {
+      "text": "Dub a slender noodle, make a wrap under the tails to lift them, then dub forward in touching turns to about two thirds of the shank.",
+      "img": "img/rs2/4.jpg"
+    },
+    {
+      "text": "Stack two or three CDC feathers with tips aligned and tie them in about half an inch behind the tips, tips pointing rearward.",
+      "img": "img/rs2/5.jpg"
+    },
+    {
+      "text": "Dub a fine noodle, make a turn or two behind the wing, then pass the dubbing in front of it to build a neat thorax, leaving a gap at the eye.",
+      "img": "img/rs2/6.jpg"
+    },
+    {
+      "text": "Whip finish behind the eye and trim the thread.",
+      "img": "img/rs2/7.jpg"
+    },
+    {
+      "text": "Separate the CDC from the tails, pull it upward, and snip it at roughly a 45 degree angle to the shank. The finished fly.",
+      "img": "img/rs2/8.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-rs2-fly/"
+  }
+}

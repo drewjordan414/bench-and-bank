@@ -1,0 +1,84 @@
+{
+  "id": "rainbow-warrior",
+  "name": "Rainbow Warrior",
+  "kind": "Nymph",
+  "imitates": "A small midge or baetis nymph with an iridescent pearl-tinsel body and rainbow thorax; Lance Egan's flashy tungsten-bead dropper for cold-weather and tailwater fishing.",
+  "sizes": "#14–20",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 2457, #14-20"
+    ],
+    [
+      "Bead",
+      "Silver tungsten, sized to hook"
+    ],
+    [
+      "Thread",
+      "UNI 8/0 red"
+    ],
+    [
+      "Tail",
+      "Pheasant tail fibers"
+    ],
+    [
+      "Abdomen",
+      "Pearl tinsel, medium"
+    ],
+    [
+      "Wing case",
+      "Stub end of the pearl tinsel"
+    ],
+    [
+      "Thorax",
+      "Rainbow dubbing (Wapsi Sow Scud)"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Slide the bead to the eye, start the thread behind it, and lay a thread base back to the bend.",
+      "img": "img/rainbow-warrior/1.jpg"
+    },
+    {
+      "text": "Peel about six pheasant tail fibers, even the tips, and tie them in at the bend about half a shank long.",
+      "img": "img/rainbow-warrior/2.jpg"
+    },
+    {
+      "text": "Wrap forward over the butt ends to just behind the bead and clip the excess.",
+      "img": "img/rainbow-warrior/3.jpg"
+    },
+    {
+      "text": "Tie in a strip of pearl tinsel behind the bead, wrap back over it to the tail base, then return the thread to the front for a smooth, slightly tapered base.",
+      "img": "img/rainbow-warrior/4.jpg"
+    },
+    {
+      "text": "Wrap the tinsel forward in slightly overlapping turns to the bead and tie it off with a couple of tight thread turns.",
+      "img": "img/rainbow-warrior/5.jpg"
+    },
+    {
+      "text": "Fold the leftover tinsel back over the top of the abdomen, tie it down flat, and wrap the thread back to just in front of the halfway point.",
+      "img": "img/rainbow-warrior/6.jpg"
+    },
+    {
+      "text": "Dub a round rainbow thorax from the back of the bead to the base of the wing case and back again.",
+      "img": "img/rainbow-warrior/7.jpg"
+    },
+    {
+      "text": "Pull the tinsel forward over the thorax and tie it down tightly at the back edge of the bead.",
+      "img": "img/rainbow-warrior/8.jpg"
+    },
+    {
+      "text": "Fold the tinsel stub back over the wing case and bind it down so it cannot pull out, then clip the excess close to the bead.",
+      "img": "img/rainbow-warrior/9.jpg"
+    },
+    {
+      "text": "Whip finish and clip the thread. The finished fly.",
+      "img": "img/rainbow-warrior/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/rainbow-warrior-egan-s"
+  }
+}

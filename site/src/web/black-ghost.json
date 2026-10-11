@@ -1,0 +1,84 @@
+{
+  "id": "black-ghost",
+  "name": "Black Ghost",
+  "kind": "Streamer",
+  "imitates": "A classic eastern feather-wing baitfish streamer, slim and flashy, for trout and landlocked salmon in rivers and lakes.",
+  "sizes": "#2–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 765 TC, #2-10"
+    ],
+    [
+      "Thread",
+      "70 denier, black"
+    ],
+    [
+      "Tail",
+      "Yellow hen saddle fibers"
+    ],
+    [
+      "Rib",
+      "Flat silver mylar tinsel, medium"
+    ],
+    [
+      "Body",
+      "Black Uni-Stretch floss"
+    ],
+    [
+      "Beard",
+      "Yellow hen saddle fibers"
+    ],
+    [
+      "Wing",
+      "Four white Chinese rooster neck hackles"
+    ],
+    [
+      "Eyes",
+      "Jungle cock nails"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap a thread base to the bend and tie in a clump of yellow hen fibers as the tail, extending about one gap width past the bend.",
+      "img": "img/black-ghost/1.jpg"
+    },
+    {
+      "text": "Tie in a second clump of hen fibers as an underbody to even out the shank, and smooth it with thread. Tie in the tinsel underneath.",
+      "img": "img/black-ghost/2.jpg"
+    },
+    {
+      "text": "Wrap the black floss in several smooth, tight layers up and back to build a slightly tapered body.",
+      "img": "img/black-ghost/3.jpg"
+    },
+    {
+      "text": "Re-start the black thread at the front of the body and spiral the flat tinsel forward in six to eight tight, even turns. Tie off and smooth a thread base to the eye.",
+      "img": "img/black-ghost/4.jpg"
+    },
+    {
+      "text": "Invert the hook and tie in a clump of yellow hen fibers as a beard that reaches to the middle of the shank. Trim the butts at an angle and turn the hook back up.",
+      "img": "img/black-ghost/5.jpg"
+    },
+    {
+      "text": "Match four white rooster hackles in two pairs, inside to inside, and bind them on top of the shank at the front of the body in a narrow band.",
+      "img": "img/black-ghost/6.jpg"
+    },
+    {
+      "text": "Trim the quill stubs, then tie in a matched jungle cock nail on each side of the wing at the same angle.",
+      "img": "img/black-ghost/7.jpg"
+    },
+    {
+      "text": "Trim the butts, build a smooth tapered head and whip finish. Add two coats of head lacquer.",
+      "img": "img/black-ghost/8.jpg"
+    },
+    {
+      "text": "Finished Black Ghost: black floss body with silver rib, yellow tail and beard, white wing and jungle cock eyes.",
+      "img": "img/black-ghost/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/black-ghost"
+  }
+}

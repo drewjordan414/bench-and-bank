@@ -1,0 +1,60 @@
+{
+  "id": "brassie",
+  "name": "Brassie",
+  "kind": "Nymph",
+  "imitates": "A slim midge larva; a simple copper-wire nymph that works year-round on tailwaters when midges dominate.",
+  "sizes": "#14–20",
+  "recipe": [
+    [
+      "Hook",
+      "Curved scud/shrimp hook"
+    ],
+    [
+      "Thread",
+      "Black 14/0"
+    ],
+    [
+      "Weight",
+      "0.015 in lead wire"
+    ],
+    [
+      "Abdomen",
+      "Copper wire"
+    ],
+    [
+      "Thorax",
+      "Peacock herl"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Seat a curved scud hook in the vise.",
+      "img": "img/brassie/1.jpg"
+    },
+    {
+      "text": "Wrap lead wire over about a third of the shank, leaving a gap behind the eye.",
+      "img": "img/brassie/2.jpg"
+    },
+    {
+      "text": "Lock the thread behind the lead and build a smooth thread base over the wire and shank.",
+      "img": "img/brassie/3.jpg"
+    },
+    {
+      "text": "Tie in copper wire with its tip reaching forward to where the thorax ends, then wrap it in touching turns to form the abdomen.",
+      "img": "img/brassie/4.jpg"
+    },
+    {
+      "text": "Tie in two or three peacock herls with tips aligned, just in front of the abdomen, then advance the thread to behind the eye.",
+      "img": "img/brassie/5.jpg"
+    },
+    {
+      "text": "Wrap the herl forward for the thorax, pull back any forward-pointing fibers, and make a small head with a few quick wraps and a whip finish. The finished fly.",
+      "img": "img/brassie/6.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-brassie/"
+  }
+}

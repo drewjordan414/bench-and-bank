@@ -1,0 +1,25 @@
+{
+  "id": "parachute-adams",
+  "name": "Parachute Adams",
+  "kind": "Dry Fly",
+  "imitates": "A general mayfly dun or spinner; the parachute hackle sits the fly low in the film, so it earns its place on any trout stream when you cannot name the hatch.",
+  "sizes": "#12–24",
+  "recipe": [["Hook", "TMC 100, #12-24"], ["Thread", "Gray 74 denier"], ["Tail", "Brown and grizzly rooster hackle fibers"], ["Wing", "White McFlylon"], ["Hackle", "Brown and grizzly rooster"], ["Body", "Gray superfine dubbing"]],
+  "steps": [
+    {"text": "Start the thread about 80% of the way back from the eye and wrap to the bend. Tie in about half a dozen grizzly hackle fibers, roughly a shank length long.", "img": "img/parachute-adams/1.jpg"},
+    {"text": "Tie a similar bunch of brown fibers on top of the grizzly, matching the length. Wrap forward over the butts and trim the excess.", "img": "img/parachute-adams/2.jpg"},
+    {"text": "Tie in a piece of white McFlylon at the 80% point with X-wraps.", "img": "img/parachute-adams/3.jpg"},
+    {"text": "Pull both halves of the wing up and make a few post wraps around their bases to gather them into a single upright post.", "img": "img/parachute-adams/4.jpg"},
+    {"text": "Match a brown and a grizzly hackle feather for size, strip the bases and lay one on the other. Tie the stripped stems in just ahead of the wing.", "img": "img/parachute-adams/5.jpg"},
+    {"text": "Fold the feathers up along the far side of the wing, shiny side facing it. Bind the bare stems to the post with several turns of thread up and down its base.", "img": "img/parachute-adams/6.jpg"},
+    {"text": "Dub the body from the tail base up to the wing.", "img": "img/parachute-adams/7.jpg"},
+    {"text": "Keep dubbing forward to the eye and back to the wing base for a tapered body. Leave the thread at the post with the bobbin hanging on the far side.", "img": "img/parachute-adams/8.jpg"},
+    {"text": "Grab the feather tips in rotating hackle pliers and make three turns around the post, working from top to bottom.", "img": "img/parachute-adams/9.jpg"},
+    {"text": "At the bottom of the post, pull the hackle tips down on the near side of the hook and let the pliers hang.", "img": "img/parachute-adams/10.jpg"},
+    {"text": "Pick up the bobbin and make three tight horizontal turns around the post base between the dubbing and the hackle, then bring the thread to just behind the eye.", "img": "img/parachute-adams/11.jpg"},
+    {"text": "Whip finish behind the eye, cut the thread and clip the hackle tips.", "img": "img/parachute-adams/12.jpg"},
+    {"text": "Trim the wing post to about a shank length and add a drop of cement at its base.", "img": "img/parachute-adams/13.jpg"},
+    {"text": "The finished Parachute Adams.", "img": "img/parachute-adams/14.jpg"}
+  ],
+  "source": { "name": "Fly Fisherman", "author": "Fly Fisherman", "url": "https://www.flyfisherman.com/editorial/parachute-adams/152452" }
+}

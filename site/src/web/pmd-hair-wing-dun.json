@@ -1,0 +1,80 @@
+{
+  "id": "pmd-hair-wing-dun",
+  "name": "PMD Hair Wing Dun",
+  "kind": "Dry Fly",
+  "imitates": "Rene Harrop's hair wing dun in pale morning dun colors; a palmered hackle thorax and a bleached deer hair wing give a buoyant, accurate silhouette for selective fish.",
+  "sizes": "#10–22",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 100 #10-22"
+    ],
+    [
+      "Thread",
+      "UNI 8/0 Light Cahill"
+    ],
+    [
+      "Tail",
+      "Blue dun spade hackle fibers"
+    ],
+    [
+      "Abdomen",
+      "Pale yellow superfine dubbing"
+    ],
+    [
+      "Hackle",
+      "Blue dun rooster"
+    ],
+    [
+      "Thorax",
+      "Pale yellow superfine dubbing"
+    ],
+    [
+      "Wing",
+      "Bleached deer hock"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread, wrap a base back to the bend and build a small ball of thread at the bend.",
+      "img": "img/pmd-hair-wing-dun/1.jpg"
+    },
+    {
+      "text": "Tie in about a dozen hackle fibers as the tail at the front edge of the thread ball, then wrap back over their bases to the ball to flare the tail.",
+      "img": "img/pmd-hair-wing-dun/2.jpg"
+    },
+    {
+      "text": "Dub a tapered abdomen to just past mid-shank, leaving extra dubbing on the thread since the hackle is tied in with it to keep abdomen and thorax continuous.",
+      "img": "img/pmd-hair-wing-dun/3.jpg"
+    },
+    {
+      "text": "Strip a half shank of bare stem from a rooster hackle and tie it in by the butt at the front of the abdomen, building the thorax with the dubbed thread as you work forward over the stem.",
+      "img": "img/pmd-hair-wing-dun/4.jpg"
+    },
+    {
+      "text": "Dub the thorax forward to about an eye length behind the eye.",
+      "img": "img/pmd-hair-wing-dun/5.jpg"
+    },
+    {
+      "text": "Spiral the hackle forward about five turns to the eye and tie off. Build a thread base from the thorax to the eye and back.",
+      "img": "img/pmd-hair-wing-dun/6.jpg"
+    },
+    {
+      "text": "Cut, clean and stack a clump of deer hock hair, measured to a shank length, and trim its butts so the clump is just longer than the shank.",
+      "img": "img/pmd-hair-wing-dun/7.jpg"
+    },
+    {
+      "text": "Set the butts just behind the eye and put two firm wraps over them, pulling toward you to flare the hair slightly, then wrap forward through the butts to the eye and whip finish.",
+      "img": "img/pmd-hair-wing-dun/8.jpg"
+    },
+    {
+      "text": "Trim the hackle on the bottom of the fly to just shorter than the hook point. The finished PMD Hair Wing Dun.",
+      "img": "img/pmd-hair-wing-dun/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/hair-wing-dun-harrop-s"
+  }
+}

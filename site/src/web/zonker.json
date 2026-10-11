@@ -1,0 +1,80 @@
+{
+  "id": "zonker",
+  "name": "Zonker",
+  "kind": "Streamer",
+  "imitates": "A baitfish with a swimming rabbit-strip wing and a flashy mylar belly; best in stillwater, or on moving water fished behind a bulkier fly.",
+  "sizes": "#2–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 300, #2-10"
+    ],
+    [
+      "Thread",
+      "3/0 Monocord, white"
+    ],
+    [
+      "Weight/Keel",
+      "0.035 lead wire"
+    ],
+    [
+      "Body",
+      "Large mylar tubing"
+    ],
+    [
+      "Wing",
+      "Zonker strip (rabbit hide)"
+    ],
+    [
+      "Eyes",
+      "Adhesive eyes"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Pinch the barb, lay a thread base, and bind a five-inch length of lead wire along the top of the shank with the long end sticking out over the eye.",
+      "img": "img/zonker/1.jpg"
+    },
+    {
+      "text": "Loop the lead wire back toward the bend to form a frame; its size sets the belly shape. Cut it at an angle and bind the end down smoothly above the hook point.",
+      "img": "img/zonker/2.jpg"
+    },
+    {
+      "text": "Cut mylar tubing about half again as long as the shank, pull out the core, flatten it and push it over the eye and onto the wire frame so the frame opens the belly.",
+      "img": "img/zonker/3.jpg"
+    },
+    {
+      "text": "Slide the tubing back to the bend, fray the end slightly and tie it down with a pinch wrap, then trim the excess butts.",
+      "img": "img/zonker/4.jpg"
+    },
+    {
+      "text": "Pull the tubing tight at the front so it hugs the wire frame, bind it down at the front of the frame and trim the stubs.",
+      "img": "img/zonker/5.jpg"
+    },
+    {
+      "text": "Invert the hook and push and pull the wire so it opens the tubing into a deep belly.",
+      "img": "img/zonker/6.jpg"
+    },
+    {
+      "text": "Poke the hook point through a Zonker strip from the hide side and seat the strip against the tie-down at the back of the body.",
+      "img": "img/zonker/7.jpg"
+    },
+    {
+      "text": "Pull the strip taut up to the eye, bind it down at the front of the body, trim the excess and build a smooth thread head. Whip finish.",
+      "img": "img/zonker/8.jpg"
+    },
+    {
+      "text": "Trim the hide (not the hair) at the rear to about half a shank length so it will not foul the hook. Glue an adhesive eye to each side at the front of the body.",
+      "img": "img/zonker/9.jpg"
+    },
+    {
+      "text": "Finished Zonker: mylar belly, rabbit-strip wing and tail, eyes on the front of the body.",
+      "img": "img/zonker/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/zonker"
+  }
+}

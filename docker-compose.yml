@@ -1,0 +1,18 @@
+# docker compose up -d --build     then open http://localhost:5183
+services:
+  bench-and-bank:
+    build: .
+    image: bench-and-bank
+    container_name: bench-and-bank
+    restart: unless-stopped
+    ports:
+      # Only this machine can reach it. To use it from other devices on the LAN, set BIND=0.0.0.0 in .env,
+      # and know that anyone who can reach the port can read and rewrite the trip log (there is no login).
+      - "${BIND:-127.0.0.1}:${PORT:-5183}:5183"
+    environment:
+      # Optional copy of the trip log in MongoDB, e.g. mongodb://192.168.4.55:27017/flyfishing. Empty = off.
+      MONGO_URL: ${MONGO_URL:-}
+      # Extra hostnames the site may be opened under, comma-separated (IP addresses and localhost always work).
+      ALLOWED_HOSTS: ${ALLOWED_HOSTS:-}
+    volumes:
+      - ./data:/app/data   # the trip log (trips.json) lives on the host, not in the container

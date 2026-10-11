@@ -1,0 +1,25 @@
+{
+  "id": "royal-wulff",
+  "name": "Royal Wulff",
+  "kind": "Dry Fly",
+  "imitates": "A high-floating attractor that suggests a big mayfly or caddis; a go-to for fast, broken water where fish see only a quick silhouette.",
+  "sizes": "#10–20",
+  "recipe": [["Hook", "TMC 100 #10-20"], ["Thread", "Black 8/0"], ["Tail", "Dark moose hair"], ["Wing", "White calf body hair"], ["Rib", "Fine copper wire"], ["Body", "Peacock herl and red floss"], ["Hackle", "Brown rooster"]],
+  "steps": [
+    {"text": "Start the thread behind the eye and wrap to the midpoint. Tie in a cleaned, stacked clump of calf hair one shank length long, at the 75 percent point.", "img": "img/royal-wulff/1.jpg"},
+    {"text": "Trim the butt ends at an angle and wrap back over them to the bend.", "img": "img/royal-wulff/2.jpg"},
+    {"text": "Tie in a clump of stacked moose hair at the bend, one shank length long, for the tail. Wrap forward over the butts, trim them to meet the wing butts, and smooth the shank.", "img": "img/royal-wulff/3.jpg"},
+    {"text": "Lift the wing up and build a thread dam in front of it to prop it more upright.", "img": "img/royal-wulff/4.jpg"},
+    {"text": "Divide the wing clump in half and use several crossing thread wraps to separate the two wings.", "img": "img/royal-wulff/5.jpg"},
+    {"text": "Post the base of each wing with a few turns to group the hair into tidy bunches.", "img": "img/royal-wulff/6.jpg"},
+    {"text": "Bring the thread back to the bend and tie in several strands of fine peacock herl and a piece of fine copper wire.", "img": "img/royal-wulff/7.jpg"},
+    {"text": "Wrap the herl forward to just short of the hook point, tie it off and clip the excess.", "img": "img/royal-wulff/8.jpg"},
+    {"text": "Move the thread forward and tie in red floss. Wrap it back to the first herl bunch and forward again to just behind the wings, then tie off and clip.", "img": "img/royal-wulff/9.jpg"},
+    {"text": "Tie in and wrap a second bunch of peacock herl in front of the floss, then clip the excess.", "img": "img/royal-wulff/10.jpg"},
+    {"text": "Wrap the copper wire forward as a rib over the herl and floss to the back of the wings, tie it off and clip.", "img": "img/royal-wulff/11.jpg"},
+    {"text": "Tie in two brown hackles at the front edge of the body and bring the thread to the eye.", "img": "img/royal-wulff/12.jpg"},
+    {"text": "Wrap the hackles forward into a dense collar, tie off at the eye, trim, and whip finish.", "img": "img/royal-wulff/13.jpg"},
+    {"text": "The finished Royal Wulff.", "img": "img/royal-wulff/14.jpg"}
+  ],
+  "source": {"name": "Fly Fisherman", "author": "Charlie Craven", "url": "https://www.flyfisherman.com/editorial/fly-tying-royal-wulff/152082"}
+}

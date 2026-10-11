@@ -1,0 +1,19 @@
+[
+ {
+  "id": "0885da83-ac6b-4179-83e3-fccfafc5ddcb",
+  "date": "2026-10-11",
+  "water": "Story Creek",
+  "lat": 42.86361,
+  "lng": -89.4675,
+  "catches": [
+   {
+    "species": "Creek Chub",
+    "fly": "Zebra Midge",
+    "hook": "",
+    "length": null,
+    "count": 2
+   }
+  ],
+  "notes": "Heavy vegetation, small pockets of holes containing mostly chubs."
+ }
+]

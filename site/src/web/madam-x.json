@@ -1,0 +1,19 @@
+{
+  "id": "madam-x",
+  "name": "Madam X",
+  "kind": "Dry Fly",
+  "imitates": "A buggy hopper, salmonfly or big stonefly adult; the rubber legs and bulky hair body suit it to summer pocket water and bank casting.",
+  "sizes": "#6–12",
+  "recipe": [["Hook", "Curved-shank dry fly hook"], ["Thread", "Yellow 8/0 Uni-Thread"], ["Tail", "Natural deer hair"], ["Body", "Yellow rabbit dubbing"], ["Wing/head", "Natural deer hair, bullet-head style"], ["Legs", "White round rubber legs"], ["Indicator", "Orange glow yarn"]],
+  "steps": [
+    {"text": "Attach the yellow thread to the bare shank and cut off the tag end.", "img": "img/madam-x/1.jpg"},
+    {"text": "Clean and stack a small clump of deer hair and tie it on top of the shank as a tail about one hook gape long. Wrap down the butts for a thick underbody.", "img": "img/madam-x/2.jpg"},
+    {"text": "Tie in a second clump of deer hair at the front with the tips pointing forward over the eye. It will become the wing and bullet head.", "img": "img/madam-x/3.jpg"},
+    {"text": "Dub the body with yellow rabbit fur, as tight and as far forward as you can, making sure no hair pokes out through the dubbing.", "img": "img/madam-x/4.jpg"},
+    {"text": "Clean the dubbing off the thread, take one wrap toward the rear, and push the hair back over the body. Make two tight wraps to form a round bullet head.", "img": "img/madam-x/5.jpg"},
+    {"text": "Cut two 2-inch strips of white rubber leg and tie one to each side of the fly, flaring them into an X.", "img": "img/madam-x/6.jpg"},
+    {"text": "Tie a small bunch of orange glow yarn on top as an indicator.", "img": "img/madam-x/7.jpg"},
+    {"text": "Whip finish and cement ahead of the yarn, then trim the yarn short and tease it round. The finished Madam X.", "img": "img/madam-x/8.jpg"}
+  ],
+  "source": {"name": "Bass Pro Shops 1Source", "author": "Jason Akl", "url": "https://1source.basspro.com/news-tips/fly-tying/5046/tying-madam-x-fly-step-step-guide"}
+}

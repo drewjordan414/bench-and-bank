@@ -1,0 +1,72 @@
+{
+  "id": "nuke-egg",
+  "name": "Nuke Egg",
+  "kind": "Nymph",
+  "imitates": "A drifting trout or salmon egg: a translucent foam ball with a milky yarn veil; best when spawning fish are upstream.",
+  "sizes": "#14–18",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 2457 or 2488H, #14-18"
+    ],
+    [
+      "Thread",
+      "GSP 50, orange"
+    ],
+    [
+      "Egg",
+      "McFlyFoam, color of choice"
+    ],
+    [
+      "Veil",
+      "Conventional egg yarn, white or pale pink"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread behind the eye and build a thread base to mid-shank, leaving the thread hanging about a quarter shank back from the eye.",
+      "img": "img/nuke-egg/1.jpg"
+    },
+    {
+      "text": "Pull a pencil-diameter clump of McFlyFoam (for a #16) and tie it on top of the shank with three tight turns, one directly over the other.",
+      "img": "img/nuke-egg/2.jpg"
+    },
+    {
+      "text": "Pull both ends of the foam up and trim them straight across; the distance between shank and scissors sets the egg size.",
+      "img": "img/nuke-egg/3.jpg"
+    },
+    {
+      "text": "After trimming, the foam is a rough tuft that is not yet round.",
+      "img": "img/nuke-egg/4.jpg"
+    },
+    {
+      "text": "Fluff the foam with your fingers into a loose ball. You can stop here for a plain egg or continue to make a Nuke Egg.",
+      "img": "img/nuke-egg/5.jpg"
+    },
+    {
+      "text": "Bring the thread in front of the egg, clip a short piece of egg yarn, peel off a few fibers and drape them around the egg as a sparse, ragged veil.",
+      "img": "img/nuke-egg/6.jpg"
+    },
+    {
+      "text": "Pinch the yarn down behind the eye, twisting a little so it spreads around the hook, and make two tight thread turns over the veil.",
+      "img": "img/nuke-egg/7.jpg"
+    },
+    {
+      "text": "Use a dubbing brush to comb the front-facing yarn back over the egg without pulling it all to the top.",
+      "img": "img/nuke-egg/8.jpg"
+    },
+    {
+      "text": "Make several tight turns of thread just behind the eye to build a small wedge that holds the yarn back.",
+      "img": "img/nuke-egg/9.jpg"
+    },
+    {
+      "text": "Whip finish and clip the thread. The finished fly.",
+      "img": "img/nuke-egg/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/nuke-egg"
+  }
+}

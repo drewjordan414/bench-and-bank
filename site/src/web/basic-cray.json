@@ -1,0 +1,80 @@
+{
+  "id": "basic-cray",
+  "name": "Basic Cray",
+  "kind": "Streamer",
+  "imitates": "A generic crayfish tied for carp but good anywhere crayfish are a food source; bead-chain eyes tip it over to ride hook point up.",
+  "sizes": "#8",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 5263 or equivalent 3X-long, #8"
+    ],
+    [
+      "Thread",
+      "Fluorescent pink, 210 denier or 3/0"
+    ],
+    [
+      "Eyes",
+      "Medium bead chain"
+    ],
+    [
+      "Claws",
+      "Natural grey squirrel tail"
+    ],
+    [
+      "Body",
+      "Crusty Nail Fusion Dub mixed with Red Ice Dub"
+    ],
+    [
+      "Rib",
+      "Medium copper wire"
+    ],
+    [
+      "Back",
+      "Clear Scud Back, 1/8 in."
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Lay a thick thread base, stopping about four wraps behind the hook eye.",
+      "img": "img/basic-cray/1.jpg"
+    },
+    {
+      "text": "Mount the bead chain eyes with X wraps and a few wraps under them so they do not twist, then wrap back to the barb.",
+      "img": "img/basic-cray/2.jpg"
+    },
+    {
+      "text": "Clean the underfur from a clump of squirrel tail and tie it in on the far side near the bend as one claw.",
+      "img": "img/basic-cray/3.jpg"
+    },
+    {
+      "text": "Tie in a second clump on the opposite side so the two claws splay off the back of the hook.",
+      "img": "img/basic-cray/4.jpg"
+    },
+    {
+      "text": "Tie in the copper wire and the Scud Back at the rear, then blend the two dubbings about 3 parts Crusty Nail to 1 part Red Ice Dub.",
+      "img": "img/basic-cray/5.jpg"
+    },
+    {
+      "text": "Dub the body forward to the eyes, then use the dubbed thread in X wraps around the eyes to cover the bare thread.",
+      "img": "img/basic-cray/6.jpg"
+    },
+    {
+      "text": "Pull the Scud Back forward over the top and tie it off behind the hook eye. Wrap the wire forward to rib it and tie off.",
+      "img": "img/basic-cray/7.jpg"
+    },
+    {
+      "text": "Whip finish, then pick out the dubbing on top with a bodkin or brush to look like a curled crayfish tail.",
+      "img": "img/basic-cray/8.jpg"
+    },
+    {
+      "text": "Finished Basic Cray: squirrel-tail claws, segmented orange-red body and bead chain eyes.",
+      "img": "img/basic-cray/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Fishwest Blog",
+    "author": "Richard Lake",
+    "url": "https://blog.fishwest.com/fly-tying-tutorial-basic-cray/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "humpy",
+  "name": "Humpy",
+  "kind": "Dry Fly",
+  "imitates": "A tough, high-floating hair attractor that rides like a big mayfly or caddis in riffles and pocket water; it floats all day.",
+  "sizes": "#8–18",
+  "recipe": [["Hook", "TMC 100SPBL #8-18"], ["Thread", "UTC 70 denier, color of choice"], ["Tail", "Moose hock"], ["Wings/hump", "Yearling elk hair"], ["Underbody", "Tying thread"], ["Hackle", "Brown and grizzly rooster"]],
+  "steps": [
+    {"text": "Start the thread at the midpoint of the shank and lay a single-layer thread base back to the bend.", "img": "img/humpy/1.jpg"},
+    {"text": "Clean and stack a clump of moose hock one shank length long. Tie it in at the bend, wrap forward to the midpoint, and clip the butts.", "img": "img/humpy/2.jpg"},
+    {"text": "Wrap up to the eye and back to the 75 percent point. Clean and stack a generous clump of yearling elk hair, tips one shank length, and tie it in there with two taut wraps, then tighten to flare it on top.", "img": "img/humpy/3.jpg"},
+    {"text": "Form a tight band to anchor the hair tips. Clip out roughly the top half of the butt ends at the back edge of the band.", "img": "img/humpy/4.jpg"},
+    {"text": "Hold the remaining butts up and taut and spiral back over them to the base of the tail to form the underbody.", "img": "img/humpy/5.jpg"},
+    {"text": "Return to the back edge of the wing clump, sweep the hair tips up and back, then build a thread dam at the front edge to prop the hair upright.", "img": "img/humpy/6.jpg"},
+    {"text": "Divide the tips into two equal bunches and make crossing diagonal wraps through the center to split the wings, anchoring after each set.", "img": "img/humpy/7.jpg"},
+    {"text": "Post the base of each wing with a wrap up and back down to bundle the hair, finishing each with an anchor wrap.", "img": "img/humpy/8.jpg"},
+    {"text": "You should now have two nicely divided, upright hair wings.", "img": "img/humpy/9.jpg"},
+    {"text": "Wrap back over the underbody to build a smooth thread hump from the tail base to about the 60 percent point.", "img": "img/humpy/10.jpg"},
+    {"text": "Pull the elk butts forward over the top of the shank to the wing tips with a half twist, then bind them down at the 60 percent point. Clip the stub ends and smooth with thread.", "img": "img/humpy/11.jpg"},
+    {"text": "Prepare one brown and one grizzly rooster feather with a half-shank of bare stem. Tie them in together at the front edge of the hump, shiny sides toward the hook.", "img": "img/humpy/12.jpg"},
+    {"text": "Wrap both feathers forward together, three or four turns behind the wings, then cross under the shank and take two or three turns to the eye. Tie off and clip.", "img": "img/humpy/13.jpg"},
+    {"text": "Build a neat thread head, whip finish. The finished Humpy.", "img": "img/humpy/14.jpg"}
+  ],
+  "source": {"name": "Fly Fisherman", "author": "Charlie Craven", "url": "https://www.flyfisherman.com/editorial/fly-tying-humpy/151877"}
+}

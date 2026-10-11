@@ -1,0 +1,96 @@
+{
+  "id": "barrs-cranefly-larva",
+  "name": "Barr's Cranefly Larva",
+  "kind": "Nymph",
+  "imitates": "A cranefly larva, a fat segmented grub that trout eat year-round in tailwaters and spring creeks; fished deep near the bottom.",
+  "sizes": "#4–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 200R, #4-10"
+    ],
+    [
+      "Thread",
+      "Olive 3/0 monocord"
+    ],
+    [
+      "Weight",
+      "Large lead wire"
+    ],
+    [
+      "Tail",
+      "Pale olive-gray marabou"
+    ],
+    [
+      "Rib",
+      "3X tippet"
+    ],
+    [
+      "Shellback",
+      "Tan Thinskin"
+    ],
+    [
+      "Body",
+      "Coarse synthetic dubbing (Arizona, Emergence or Sow Scud)"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap about thirty turns of large lead wire along the shank, stopping a couple of eye lengths behind the eye and just short of the bend.",
+      "img": "img/barrs-cranefly-larva/1.jpg"
+    },
+    {
+      "text": "Start the thread in front of the lead, build a slight taper up to it, then wrap back over the lead to the bend as a smooth base and return to the front.",
+      "img": "img/barrs-cranefly-larva/2.jpg"
+    },
+    {
+      "text": "Clump the tip of a marabou feather about a hook gap long and tie it in at the bend with the tip extending off the back.",
+      "img": "img/barrs-cranefly-larva/3.jpg"
+    },
+    {
+      "text": "Fold the rest of the marabou forward over the shank and wrap the thread forward over it to behind the eye, forming a smooth underbody.",
+      "img": "img/barrs-cranefly-larva/4.jpg"
+    },
+    {
+      "text": "Clip the marabou butts at the eye, then tie a length of tippet on the far side of the hook for the rib and wrap back over it to the bend.",
+      "img": "img/barrs-cranefly-larva/5.jpg"
+    },
+    {
+      "text": "Let the tippet hang at the rear, return the thread to mid-shank, and cut a strip of Thinskin slightly narrower than the hook gap, peeling off its paper backing.",
+      "img": "img/barrs-cranefly-larva/6.jpg"
+    },
+    {
+      "text": "Lay the Thinskin on top of the shank at mid-point, fold it around the hook, and tie it down firmly at the front end.",
+      "img": "img/barrs-cranefly-larva/7.jpg"
+    },
+    {
+      "text": "Pull back on the Thinskin to stretch it slightly and wrap back over it to the base of the tail so it cups the shank.",
+      "img": "img/barrs-cranefly-larva/8.jpg"
+    },
+    {
+      "text": "Dub the thread heavily and build a tapered body from the bend, doing the rear half first with one strand and the front half with another.",
+      "img": "img/barrs-cranefly-larva/9.jpg"
+    },
+    {
+      "text": "Add more dubbing to finish an elongated football-shaped body, fattest in the middle and tapered at both ends.",
+      "img": "img/barrs-cranefly-larva/10.jpg"
+    },
+    {
+      "text": "Pull the Thinskin forward over the body and tie it down behind the eye, letting it buckle over the dubbing. Do not trim it yet.",
+      "img": "img/barrs-cranefly-larva/11.jpg"
+    },
+    {
+      "text": "Rib forward with the tippet in about a dozen evenly spaced turns, pulling tight so it sinks in and makes distinct segments.",
+      "img": "img/barrs-cranefly-larva/12.jpg"
+    },
+    {
+      "text": "Tie off and trim the ribbing and Thinskin at the eye, build a tapered thread head, whip finish, trim the dubbing underneath a bit, and add head cement. The finished fly.",
+      "img": "img/barrs-cranefly-larva/13.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/cranefly-larva-barr-s"
+  }
+}

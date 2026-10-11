@@ -1,0 +1,23 @@
+{
+  "id": "royal-coachman",
+  "name": "Royal Coachman",
+  "kind": "Wet Fly",
+  "imitates": "The classic flashy attractor, tied here as a feather-wing wet fly. The red band and white wings stand out underwater, and it works as a searching fly or dropper when nothing is hatching.",
+  "sizes": "#8–12",
+  "recipe": [["Hook", "Ahrex FW 580, typically #8-12"], ["Thread", "Black"], ["Tail", "Golden pheasant tippet"], ["Body", "Peacock herl, red floss and peacock herl in even thirds"], ["Hackle", "Natural brown cock hackle"], ["Wing", "White goose shoulder or covert, or swan"]],
+  "steps": [
+    {"text": "Attach the black thread and tie in a golden pheasant tippet tail the full length of the hook shank.", "img": "img/royal-coachman/1.jpg"},
+    {"text": "Tie in peacock herl the full length of the shank.", "img": "img/royal-coachman/2.jpg"},
+    {"text": "Wrap the herl over the back third of the shank and tie off, but do not cut it. Leave room at the front for the hackle and wing.", "img": "img/royal-coachman/3.jpg"},
+    {"text": "Tie in red floss and bind it down over the middle third, together with the remaining herl.", "img": "img/royal-coachman/4.jpg"},
+    {"text": "Wrap the red floss over the middle third, tie off and cut off the waste.", "img": "img/royal-coachman/5.jpg"},
+    {"text": "Wrap the remaining peacock herl over the forward third of the shank.", "img": "img/royal-coachman/6.jpg"},
+    {"text": "Stroke back the fibres on a natural brown hackle, cut off the tip leaving a small triangle, and tie it in directly in front of the herl.", "img": "img/royal-coachman/7.jpg"},
+    {"text": "Wrap the hackle two or three turns and tie off.", "img": "img/royal-coachman/8.jpg"},
+    {"text": "With the thread, gather the hackle fibres to the sides and below the shank to form a false hackle.", "img": "img/royal-coachman/9.jpg"},
+    {"text": "Cut two matching slips of white feather for the wings, one from each of a left and a right feather.", "img": "img/royal-coachman/10.jpg"},
+    {"text": "Tie the wings down on top of the hook, supporting them between your fingers as the thread compresses them. If they slip, unwind and try again.", "img": "img/royal-coachman/11.jpg"},
+    {"text": "The finished Royal Coachman.", "img": "img/royal-coachman/12.jpg"}
+  ],
+  "source": {"name": "Ahrex Hooks", "author": "Håkan Karsnäser", "url": "https://ahrexhooks.com/2021/01/08/the-royal-coachman/"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": "klinkhammer",
+  "name": "Klinkhammer",
+  "kind": "Dry Fly",
+  "imitates": "Hans van Klinken's emerger-style dry with a curved hook and parachute post; the abdomen hangs below the film like a hatching caddis or mayfly, and the post makes it easy to see.",
+  "sizes": "#10–18",
+  "recipe": [
+    [
+      "Hook",
+      "Mouche 8430 #12 (curved emerger hook)"
+    ],
+    [
+      "Thread",
+      "White 14/0"
+    ],
+    [
+      "Post",
+      "White poly yarn"
+    ],
+    [
+      "Rib",
+      "Krystal Flash"
+    ],
+    [
+      "Abdomen/Thorax",
+      "Caddis green poly dubbing"
+    ],
+    [
+      "Hackle",
+      "Badger cock neck"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Secure the hook in the vise with the point and barb clear. Lock the thread in about a third of the shank behind the eye with a few wraps and trim the tag.",
+      "img": "img/klinkhammer/1.jpg"
+    },
+    {
+      "text": "Run the thread forward in touching turns to behind the eye, then back to where the thread hangs just inside the hook bend.",
+      "img": "img/klinkhammer/2.jpg"
+    },
+    {
+      "text": "Run the thread forward to about a quarter of the foundation behind the eye. Lay about four inches of poly yarn across the top of the shank and pin it with two or three pinch wraps.",
+      "img": "img/klinkhammer/3.jpg"
+    },
+    {
+      "text": "Lift the front section of the yarn and wrap in front of the tie-in to make the post stand up, then wrap up the post to form a base for the hackle. Return the thread to the post base.",
+      "img": "img/klinkhammer/4.jpg"
+    },
+    {
+      "text": "Pull the rear yarn tight and cut it at a taper, then cover it with touching thread wraps to shape the abdomen. Tie in the tip of the Krystal Flash rib and wrap back to the end of the foundation.",
+      "img": "img/klinkhammer/5.jpg"
+    },
+    {
+      "text": "Dub a slender noodle on waxed thread and wrap it forward in touching turns over the abdomen, stopping just behind the post.",
+      "img": "img/klinkhammer/6.jpg"
+    },
+    {
+      "text": "Counter-wrap the Krystal Flash rib in the opposite direction to the dubbing, in evenly spaced turns.",
+      "img": "img/klinkhammer/7.jpg"
+    },
+    {
+      "text": "Strip the soft fibers from a hackle feather and tie it in against the post with the bright side inward, tip pointing down.",
+      "img": "img/klinkhammer/8.jpg"
+    },
+    {
+      "text": "Dub the thorax in figure-eights around the post base, stopping just behind the eye.",
+      "img": "img/klinkhammer/9.jpg"
+    },
+    {
+      "text": "Fold forward fibers back, form a small head, whip finish and trim the thread, then cement the head.",
+      "img": "img/klinkhammer/10.jpg"
+    },
+    {
+      "text": "Turn the fly 90 degrees in the vise so the post is horizontal, lock the thread at the post base and wrap the hackle down the post without trapping fibers.",
+      "img": "img/klinkhammer/11.jpg"
+    },
+    {
+      "text": "Pull the post tight and cut it just above the hackle, leaving roughly an eighth of an inch.",
+      "img": "img/klinkhammer/12.jpg"
+    },
+    {
+      "text": "Whip finish slowly so no fibers are trapped, pull tight and cut the thread.",
+      "img": "img/klinkhammer/13.jpg"
+    },
+    {
+      "text": "The finished Klinkhammer, ready for floatant on the post and hackle.",
+      "img": "img/klinkhammer/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-klinkhammer/"
+  }
+}

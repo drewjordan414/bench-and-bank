@@ -1,0 +1,72 @@
+{
+  "id": "soft-hackle-sowbug",
+  "name": "Soft Hackle Sowbug",
+  "kind": "Nymph",
+  "imitates": "A sowbug (aquatic isopod), the staple tailwater food item; the orange thread glowing through the dubbing is a Bighorn River trick that fish seem to prefer.",
+  "sizes": "#14–18",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 3769, #14-18"
+    ],
+    [
+      "Thread",
+      "UNI 8/0 fluorescent fire orange or red"
+    ],
+    [
+      "Body",
+      "Cinnamon caddis dubbing (Hareline)"
+    ],
+    [
+      "Hackle",
+      "Blue dun (grey) hen neck"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread an eye length behind the eye and wrap a smooth base to the bend, then back to the start so the shank has an even orange layer.",
+      "img": "img/soft-hackle-sowbug/1.jpg"
+    },
+    {
+      "text": "Dub a thin strand of cinnamon dubbing and wrap a single layer from the bend up to the front of the shank.",
+      "img": "img/soft-hackle-sowbug/2.jpg"
+    },
+    {
+      "text": "Wrap the remaining dubbing back over the front two thirds and forward again to build a slightly tapered body, ending with bare thread at the back of the hackle spot.",
+      "img": "img/soft-hackle-sowbug/3.jpg"
+    },
+    {
+      "text": "Pick a hen feather with barbs about shank length, strip the fluff, and tie it in by the butt at the front of the body with the concave side toward the shank.",
+      "img": "img/soft-hackle-sowbug/4.jpg"
+    },
+    {
+      "text": "Pull the feather up in hackle pliers and stroke the barbs back toward the rear of the stem, just enough for a couple of turns.",
+      "img": "img/soft-hackle-sowbug/5.jpg"
+    },
+    {
+      "text": "Wrap the hen feather forward for about two turns, one directly in front of the other, and tie it off behind the eye.",
+      "img": "img/soft-hackle-sowbug/6.jpg"
+    },
+    {
+      "text": "Clip the leftover feather tip as close to the hook as you can.",
+      "img": "img/soft-hackle-sowbug/7.jpg"
+    },
+    {
+      "text": "Push the hackle fibers back along the body with your thread hand.",
+      "img": "img/soft-hackle-sowbug/8.jpg"
+    },
+    {
+      "text": "Hold the fibers back from the rear and wrap a small thread head in front of them so they sweep into a neat collar.",
+      "img": "img/soft-hackle-sowbug/9.jpg"
+    },
+    {
+      "text": "Build a smooth orange thread head, whip finish, and add a small drop of head cement. The finished fly.",
+      "img": "img/soft-hackle-sowbug/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/soft-hackle-sow-bug"
+  }
+}

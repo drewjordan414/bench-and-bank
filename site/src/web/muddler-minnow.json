@@ -1,0 +1,88 @@
+{
+  "id": "muddler-minnow",
+  "name": "Muddler Minnow",
+  "kind": "Streamer",
+  "imitates": "A sculpin and baitfish imitation; the dense spun deer-hair head pushes water, so it works fished as a streamer, wet fly or dropper, even in off-color water.",
+  "sizes": "#2–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 9395, #2-10"
+    ],
+    [
+      "Thread",
+      "6/0 for body and wing, 3/0 for the head"
+    ],
+    [
+      "Tail",
+      "Matched mottled turkey quill slips"
+    ],
+    [
+      "Body",
+      "Gold mini flat braid"
+    ],
+    [
+      "Underwing",
+      "Tan calf tail"
+    ],
+    [
+      "Overwing",
+      "Matched mottled turkey quill slips"
+    ],
+    [
+      "Collar",
+      "Natural deer hair tips"
+    ],
+    [
+      "Head",
+      "Spun and trimmed natural deer body hair"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Make a thread base from the 75 percent point back to the bend, keeping the front quarter clear for the deer hair head.",
+      "img": "img/muddler-minnow/1.jpg"
+    },
+    {
+      "text": "Tie in matched turkey quill slips at the bend with a pinch wrap for the tail, about one quarter shank length long, and trim the butts.",
+      "img": "img/muddler-minnow/2.jpg"
+    },
+    {
+      "text": "Tie in the flat braid at the 75 percent point, wrap it back to the bend and forward again for a double-layer body, then tie off.",
+      "img": "img/muddler-minnow/3.jpg"
+    },
+    {
+      "text": "Tie in a sparse clump of calf tail as an underwing, as long as the middle of the tail, and smooth over the butts without moving into the head space.",
+      "img": "img/muddler-minnow/4.jpg"
+    },
+    {
+      "text": "Cut matched quill slips for the wing, reaching just short of the tail tips, and tie them in with the same pinch wrap. Trim the butts and whip finish the 6/0 thread.",
+      "img": "img/muddler-minnow/5.jpg"
+    },
+    {
+      "text": "Start the 3/0 thread at the eye and stack a big clump of deer hair, with the tips (collar) about two thirds of its length. Tie it on at the base of the wing.",
+      "img": "img/muddler-minnow/6.jpg"
+    },
+    {
+      "text": "Make loose turns to gather and flare the hair, then pull down and back on the thread to spin it all the way around the hook. Work the thread forward through the butts.",
+      "img": "img/muddler-minnow/7.jpg"
+    },
+    {
+      "text": "Add a second, cleaned and tip-trimmed clump of deer hair over the thread, spin it the same way, work the thread to the eye and whip finish.",
+      "img": "img/muddler-minnow/8.jpg"
+    },
+    {
+      "text": "Trim the head into a symmetrical cone with a razor blade or scissors, taking care not to cut off the collar tips.",
+      "img": "img/muddler-minnow/9.jpg"
+    },
+    {
+      "text": "Finished Muddler: matching quill wing and tail, collar of deer hair tips, and a cone-shaped head.",
+      "img": "img/muddler-minnow/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/muddler-minnow"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "san-juan-worm",
+  "name": "San Juan Worm",
+  "kind": "Nymph",
+  "imitates": "A red bloodworm or aquatic worm; one of the simplest and most productive nymphs for trout in rivers and still water.",
+  "sizes": "#12–18",
+  "recipe": [
+    [
+      "Hook",
+      "Curved-shank nymph hook, #12 (Mouche 8471 shown)"
+    ],
+    [
+      "Bead",
+      "Gold tungsten, countersunk, 3.5 mm"
+    ],
+    [
+      "Thread",
+      "UTC Ultra 70 denier, red"
+    ],
+    [
+      "Body",
+      "Fluorescent red micro chenille"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Slide a countersunk bead over the hook point, small hole first, up to the eye.",
+      "img": "img/san-juan-worm/1.jpg"
+    },
+    {
+      "text": "Seat the hook in the vise, slide the bead back, and start the thread behind the eye with a few locking wraps.",
+      "img": "img/san-juan-worm/2.jpg"
+    },
+    {
+      "text": "Set the bead mid-shank and build thread dams on both sides of it, crossing over a few times so it cannot spin or slide.",
+      "img": "img/san-juan-worm/3.jpg"
+    },
+    {
+      "text": "Flatten the thread by spinning it, then lay touching wraps back to the rear of the hook.",
+      "img": "img/san-juan-worm/4.jpg"
+    },
+    {
+      "text": "Lay about 1.5 inches of chenille on top of the shank with roughly half an inch hanging off the back, and tie it in at the rear.",
+      "img": "img/san-juan-worm/5.jpg"
+    },
+    {
+      "text": "Advance the thread to the back of the bead, fold the forward section of chenille over, and wrap it down firmly.",
+      "img": "img/san-juan-worm/6.jpg"
+    },
+    {
+      "text": "Cross the thread to the front of the bead, fold the chenille over the bead and secure it with a few wraps, then add locking wraps in front.",
+      "img": "img/san-juan-worm/7.jpg"
+    },
+    {
+      "text": "Advance the thread leaving a small gap behind the eye and tie the chenille down so the front tail matches the rear one in length.",
+      "img": "img/san-juan-worm/8.jpg"
+    },
+    {
+      "text": "Pull the front chenille back, form a neat head, and whip finish twice.",
+      "img": "img/san-juan-worm/9.jpg"
+    },
+    {
+      "text": "Seal the exposed thread with a bodkin and head cement or nail hardener, then trim both chenille ends to length. The finished fly.",
+      "img": "img/san-juan-worm/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-san-juan-worm/"
+  }
+}

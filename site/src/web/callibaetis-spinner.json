@@ -1,0 +1,92 @@
+{
+  "id": "callibaetis-spinner",
+  "name": "Callibaetis Spinner",
+  "kind": "Dry Fly",
+  "imitates": "A spent Callibaetis mayfly on stillwater; tie it for lake fishing when spinners fall on calm water. Change colors to match other spinners.",
+  "sizes": "#12–18",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 100SP-BL #12-18"
+    ],
+    [
+      "Thread",
+      "Cinnamon 14/0"
+    ],
+    [
+      "Tails",
+      "Gray DNA fibers"
+    ],
+    [
+      "Abdomen",
+      "Callibaetis-colored turkey biot, ribbed edge standing up"
+    ],
+    [
+      "Wing",
+      "Gray DNA fibers"
+    ],
+    [
+      "Thorax",
+      "Callibaetis superfine dubbing"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread two eye lengths behind the eye and lay a base to the bend. Lay three strands of DNA fibers in at the bend, angled down on the near side.",
+      "img": "img/callibaetis-spinner/1.jpg"
+    },
+    {
+      "text": "Anchor the fibers, wrap forward over their butts and clip them at the starting point. Pull on the tails to separate them.",
+      "img": "img/callibaetis-spinner/2.jpg"
+    },
+    {
+      "text": "Clip the tip off a turkey biot, notch facing up, and tie it in by the cut tip at the bend in front of the tails. Return the thread forward.",
+      "img": "img/callibaetis-spinner/3.jpg"
+    },
+    {
+      "text": "Fold the biot up with hackle pliers and wrap it forward in slightly overlapping turns, flat edge leading and the raised edge on the back of each turn.",
+      "img": "img/callibaetis-spinner/4.jpg"
+    },
+    {
+      "text": "Tie off the biot at the starting point, clip the excess and wrap a smooth thread base for the wing.",
+      "img": "img/callibaetis-spinner/5.jpg"
+    },
+    {
+      "text": "Cut 20-25 DNA fibers and lay them across the hook, centered at the front of the biot body.",
+      "img": "img/callibaetis-spinner/6.jpg"
+    },
+    {
+      "text": "Tie them down with three tight wraps, pull the far wing out perpendicular and make three more wraps to lock the wings at a right angle.",
+      "img": "img/callibaetis-spinner/7.jpg"
+    },
+    {
+      "text": "Dub the thread with a very thin strand of dubbing and begin wrapping behind the eye up to the wing base.",
+      "img": "img/callibaetis-spinner/8.jpg"
+    },
+    {
+      "text": "Wrap the dubbed thread through the wing bases in both directions to cover the tie-down, then dub back and forth to a tapered, slightly egg-shaped thorax.",
+      "img": "img/callibaetis-spinner/9.jpg"
+    },
+    {
+      "text": "Bar each wing with a few marks from a fine marker tip.",
+      "img": "img/callibaetis-spinner/10.jpg"
+    },
+    {
+      "text": "Whip finish, clip the thread, then pull the wings out to form a more pronounced spread profile.",
+      "img": "img/callibaetis-spinner/11.jpg"
+    },
+    {
+      "text": "Pull both wings back parallel to the shank and clip them just beyond the bend.",
+      "img": "img/callibaetis-spinner/12.jpg"
+    },
+    {
+      "text": "The finished Callibaetis Spinner, side view.",
+      "img": "img/callibaetis-spinner/13.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/callibaetis-spinner"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "prince-nymph",
+  "name": "Prince Nymph",
+  "kind": "Nymph",
+  "imitates": "A generic stonefly or mayfly nymph with white biot horns that read as wings or legs; a classic attractor point fly on freestone and tailwater alike.",
+  "sizes": "#10–16",
+  "recipe": [
+    [
+      "Hook",
+      "Nymph hook, #10 shown (Mouche 8423)"
+    ],
+    [
+      "Bead",
+      "3.5 mm gold tungsten, countersunk"
+    ],
+    [
+      "Thread",
+      "Red 70 denier"
+    ],
+    [
+      "Tail",
+      "Brown goose biots"
+    ],
+    [
+      "Body",
+      "Peacock herl"
+    ],
+    [
+      "Rib",
+      "Gold wire"
+    ],
+    [
+      "Hackle",
+      "Brown cock hackle"
+    ],
+    [
+      "Horns",
+      "White or yellow goose biots"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Slide a countersunk bead on the hook, small hole first, and push it up against the eye.",
+      "img": "img/prince-nymph/1.jpg"
+    },
+    {
+      "text": "With the hook level in the vise, lock the thread on just behind the bead.",
+      "img": "img/prince-nymph/2.jpg"
+    },
+    {
+      "text": "Lay a touching-turn thread base back to the start of the bend.",
+      "img": "img/prince-nymph/3.jpg"
+    },
+    {
+      "text": "Tie in two biots flared apart as a forked tail, between one half and three quarters of the shank in length.",
+      "img": "img/prince-nymph/4.jpg"
+    },
+    {
+      "text": "Run the thread to the bead, tie in the wire rib there, then bring the thread back to the base of the tail.",
+      "img": "img/prince-nymph/5.jpg"
+    },
+    {
+      "text": "Trim three peacock herls so the tips align and tie them in at the base of the tail, then run the thread to the bead.",
+      "img": "img/prince-nymph/6.jpg"
+    },
+    {
+      "text": "Twist the three herls into a rope and wrap forward for the abdomen, tying off just behind the bead.",
+      "img": "img/prince-nymph/7.jpg"
+    },
+    {
+      "text": "Counter-wrap the wire rib in the opposite direction for five to seven segments and tie it off.",
+      "img": "img/prince-nymph/8.jpg"
+    },
+    {
+      "text": "Strip the fluffy fibers from a hackle feather and tie it in just behind the bead.",
+      "img": "img/prince-nymph/9.jpg"
+    },
+    {
+      "text": "Wrap the hackle forward with a pair of hackle pliers, stroking the fibers back with each turn.",
+      "img": "img/prince-nymph/10.jpg"
+    },
+    {
+      "text": "Pull the hackle fibers back and down and bind them in, so most of the fibers sit below the shank.",
+      "img": "img/prince-nymph/11.jpg"
+    },
+    {
+      "text": "Cross two white goose biots in an X on top of the hook behind the bead, tie them in as horns, whip finish, and add head cement. The finished fly.",
+      "img": "img/prince-nymph/12.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-prince-nymph/"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "partridge-soft-hackle",
+  "name": "Partridge Soft Hackle",
+  "kind": "Wet Fly",
+  "imitates": "A small traditional soft hackle that suggests an emerging caddis or mayfly; the thread-twist hackle method lets you tie it very small.",
+  "sizes": "#12–16",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 760 TC, #12-16"
+    ],
+    [
+      "Thread",
+      "14/0, black"
+    ],
+    [
+      "Tag",
+      "Silver flat mylar tinsel"
+    ],
+    [
+      "Abdomen",
+      "Silk floss (here purple)"
+    ],
+    [
+      "Thorax",
+      "Gray beaver dubbing"
+    ],
+    [
+      "Hackle",
+      "Hungarian partridge body feather"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread and lay a piece of flat mylar tinsel under the hook, gold side up; fold it over the thread so it wraps silver side up.",
+      "img": "img/partridge-soft-hackle/1.jpg"
+    },
+    {
+      "text": "Wrap the tinsel back to between the hook point and the barb, then forward over itself, and tie it off a third of a shank behind the eye.",
+      "img": "img/partridge-soft-hackle/2.jpg"
+    },
+    {
+      "text": "Split a length of silk floss to one third of its thickness, tie it in and wrap a smooth two-layer abdomen back and forward.",
+      "img": "img/partridge-soft-hackle/3.jpg"
+    },
+    {
+      "text": "Dub a small, tight ball-shaped thorax at the front of the abdomen, leaving room behind the eye.",
+      "img": "img/partridge-soft-hackle/4.jpg"
+    },
+    {
+      "text": "Pick a partridge feather with a straight, square tip and stroke back the short fibers so the tips are even.",
+      "img": "img/partridge-soft-hackle/5.jpg"
+    },
+    {
+      "text": "Cut the center stem a third of the way down to leave a V-shaped feather, and lay it on top of the shank with the tips about to the hook point.",
+      "img": "img/partridge-soft-hackle/6.jpg"
+    },
+    {
+      "text": "Pinch the feather along the shank, take two soft turns of thread over it, then draw the thread tight so the torque spins the fibers evenly around the hook.",
+      "img": "img/partridge-soft-hackle/7.jpg"
+    },
+    {
+      "text": "Trim the butt ends as close to the shank as possible.",
+      "img": "img/partridge-soft-hackle/8.jpg"
+    },
+    {
+      "text": "Cover the stubs with neat thread wraps, whip finish and clip the thread. The finished fly shows a sparse, evenly spread hackle.",
+      "img": "img/partridge-soft-hackle/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/soft-hackle"
+  }
+}

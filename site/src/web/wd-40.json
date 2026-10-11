@@ -1,0 +1,72 @@
+{
+  "id": "wd-40",
+  "name": "WD-40",
+  "kind": "Nymph",
+  "imitates": "A tiny midge or baetis emerger with a mallard-fiber tail and wing case; a tailwater favorite when fish are keyed on small emergers.",
+  "sizes": "#16–22",
+  "recipe": [
+    [
+      "Hook",
+      "Curved nymph/emerger hook, #16 shown (Mouche 8471), usually tied smaller"
+    ],
+    [
+      "Thread",
+      "Light olive 6/0"
+    ],
+    [
+      "Tail",
+      "Natural mallard flank"
+    ],
+    [
+      "Body",
+      "Thread"
+    ],
+    [
+      "Thorax",
+      "Superfine dry-fly dubbing, brown olive"
+    ],
+    [
+      "Wing case",
+      "Natural mallard flank"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Seat a small curved hook in the vise with the eye straight so the whip finish is easy later.",
+      "img": "img/wd-40/1.jpg"
+    },
+    {
+      "text": "Start the thread about a quarter shank length behind the eye and wrap forward a few turns to lock it.",
+      "img": "img/wd-40/2.jpg"
+    },
+    {
+      "text": "Align the tips of a small clump of mallard fibers and tie it in on top of the shank with the tips pointing back, so the tail ends up about half a shank long.",
+      "img": "img/wd-40/3.jpg"
+    },
+    {
+      "text": "Wrap the thread back down the bend, keeping the mallard on top, until the tail sits at the right length.",
+      "img": "img/wd-40/4.jpg"
+    },
+    {
+      "text": "Flatten the thread and wrap forward in touching turns to build a smooth tapered body, ending just behind the eye.",
+      "img": "img/wd-40/5.jpg"
+    },
+    {
+      "text": "Dub a thin, short noodle and wrap it back toward the body to cover about the front third of the shank.",
+      "img": "img/wd-40/6.jpg"
+    },
+    {
+      "text": "Pull the forward-pointing mallard fibers back over the thorax as a wing case, tie them down and trim the excess.",
+      "img": "img/wd-40/7.jpg"
+    },
+    {
+      "text": "Wrap over the cut ends to tidy them, then whip finish behind the thorax and cut the thread. The finished fly.",
+      "img": "img/wd-40/8.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-wd-40/"
+  }
+}

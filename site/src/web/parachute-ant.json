@@ -1,0 +1,68 @@
+{
+  "id": "parachute-ant",
+  "name": "Parachute Ant",
+  "kind": "Dry Fly",
+  "imitates": "A low-riding ant on a small hook with a white post you can see; fished any time ants are around, especially late spring through fall.",
+  "sizes": "#13–19",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 102Y, #13-19"
+    ],
+    [
+      "Thread",
+      "8/0, black"
+    ],
+    [
+      "Body",
+      "Black superfine dubbing"
+    ],
+    [
+      "Wing post",
+      "White Float-Viz"
+    ],
+    [
+      "Hackle",
+      "Grizzly rooster neck"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap a thread base from the middle of the shank back to the bend.",
+      "img": "img/parachute-ant/1.jpg"
+    },
+    {
+      "text": "Dub a thin layer on the thread and build an oblong ball from the bend to about the 40 percent point.",
+      "img": "img/parachute-ant/2.jpg"
+    },
+    {
+      "text": "Bring the thread forward to the 80 percent point and tie in a length of Float-Viz with X wraps across its center, like spinner wings.",
+      "img": "img/parachute-ant/3.jpg"
+    },
+    {
+      "text": "Pull both halves up into one post and post the base with thread wraps.",
+      "img": "img/parachute-ant/4.jpg"
+    },
+    {
+      "text": "Strip the base of a grizzly hackle and tie it in just ahead of the post, shiny side down, then pull it up and wrap thread up the post to anchor it.",
+      "img": "img/parachute-ant/5.jpg"
+    },
+    {
+      "text": "Return the thread to the base of the post and build a smaller dubbed ball behind the eye, leaving bare shank between the two balls as the waist.",
+      "img": "img/parachute-ant/6.jpg"
+    },
+    {
+      "text": "Wrap the hackle down the post, each turn under the last, four or five turns. Pinch-wrap the tip down on the far side of the hook.",
+      "img": "img/parachute-ant/7.jpg"
+    },
+    {
+      "text": "Whip finish behind the eye, trim the post to about one shank length and add a drop of head cement at the post base.",
+      "img": "img/parachute-ant/8.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/parachute-ant"
+  }
+}

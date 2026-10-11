@@ -1,0 +1,88 @@
+{
+  "id": "fat-albert",
+  "name": "Fat Albert",
+  "kind": "Dry Fly",
+  "imitates": "A big stacked-foam attractor that reads as a hopper, cicada or beetle; floats heavy nymphs on a dropper and gets eaten in summer when terrestrials are on the water.",
+  "sizes": "#4–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 5262, 2302 or 5263 #4-10"
+    ],
+    [
+      "Thread",
+      "UTC 140 denier, rusty brown"
+    ],
+    [
+      "Body",
+      "1/8 inch foam, tan and brown"
+    ],
+    [
+      "Indicator",
+      "Brightly colored McFlyFoam"
+    ],
+    [
+      "Legs",
+      "Round rubber legs"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread behind the eye and lay a base partway around the bend. Cut a brown foam strip as wide as the hook gap and at least four inches long.",
+      "img": "img/fat-albert/1.jpg"
+    },
+    {
+      "text": "Tie the brown foam in near the eye, wrap back over it to the bend, and continue a little past the bend to anchor it. Return the thread to the front.",
+      "img": "img/fat-albert/2.jpg"
+    },
+    {
+      "text": "Cut a tan strip the same width and tie it in at the front, on top of the brown strip.",
+      "img": "img/fat-albert/3.jpg"
+    },
+    {
+      "text": "Bind the foam down tightly all the way back, then spend the time to cover all the foam on the shank with a smooth layer of thread. Hang the thread about even with the barb.",
+      "img": "img/fat-albert/4.jpg"
+    },
+    {
+      "text": "Pull the tan foam forward and bind it down at the barb, lift it, move the thread an equal distance forward, and bind again. Make three segments that extend just past the halfway point.",
+      "img": "img/fat-albert/5.jpg"
+    },
+    {
+      "text": "Pull the brown strip over the top of the tan segments and bind it in the last segment. Tie a clump of bright McFlyFoam in at the same spot.",
+      "img": "img/fat-albert/6.jpg"
+    },
+    {
+      "text": "Tie a second tan foam strip in that same segment, easy on the thread turns to keep bulk down. Cut the McFlyFoam to a short puff.",
+      "img": "img/fat-albert/7.jpg"
+    },
+    {
+      "text": "Tie an overhand knot in a single rubber leg and tie it in along the near side at that segment. Repeat on the far side.",
+      "img": "img/fat-albert/8.jpg"
+    },
+    {
+      "text": "Lift all three foam sheets out of the way, move the thread up behind the eye, then bind the tan, brown and second tan strips down in order on top of each other.",
+      "img": "img/fat-albert/9.jpg"
+    },
+    {
+      "text": "Clip the front of the foam just beyond the eye. Tie a single unknotted rubber leg along each side in the front joint.",
+      "img": "img/fat-albert/10.jpg"
+    },
+    {
+      "text": "Whip finish in the last foam segment and clip the thread. Round the corners of the head with scissors.",
+      "img": "img/fat-albert/11.jpg"
+    },
+    {
+      "text": "Trim the front legs about even with where the knots fall on the back legs, and coat the underside with gloss coat (not Zap-A-Gap, which turns white).",
+      "img": "img/fat-albert/12.jpg"
+    },
+    {
+      "text": "The finished Fat Albert. You can leave it plain or stripe the legs with a black marker.",
+      "img": "img/fat-albert/13.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/fat-albert"
+  }
+}

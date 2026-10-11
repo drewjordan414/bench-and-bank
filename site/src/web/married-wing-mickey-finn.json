@@ -1,0 +1,80 @@
+{
+  "id": "married-wing-mickey-finn",
+  "name": "Married Wing Mickey Finn",
+  "kind": "Streamer",
+  "imitates": "The quill-wing version of the Mickey Finn bucktail, a classic brook trout streamer; the married yellow-red-yellow wing gives it the traditional look.",
+  "sizes": "#12",
+  "recipe": [
+    [
+      "Hook",
+      "Small streamer hook, Mustad 9671 #12"
+    ],
+    [
+      "Tail",
+      "Red goose or swan quill segments, left and right"
+    ],
+    [
+      "Rib",
+      "Small oval silver tinsel"
+    ],
+    [
+      "Body",
+      "Medium flat silver tinsel"
+    ],
+    [
+      "Throat",
+      "Yellow hackle, wound and bound down as a beard"
+    ],
+    [
+      "Wings",
+      "Left and right quill slips, yellow-red-yellow married"
+    ],
+    [
+      "Head",
+      "Black thread"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread behind the eye, wrap to the bend and tie in a tail of red quill slips (three fibers wide from a right and a left feather), tips up and together, about a shank long.",
+      "img": "img/married-wing-mickey-finn/1.jpg"
+    },
+    {
+      "text": "Tie in small oval tinsel and a pointed length of medium flat tinsel on the far side of the hook, and bind them down along the shank.",
+      "img": "img/married-wing-mickey-finn/2.jpg"
+    },
+    {
+      "text": "Wrap the flat tinsel forward to form the body and tie it off without trimming it yet.",
+      "img": "img/married-wing-mickey-finn/3.jpg"
+    },
+    {
+      "text": "Wrap the oval tinsel forward in about five ribs, tie off and trim both tinsels.",
+      "img": "img/married-wing-mickey-finn/4.jpg"
+    },
+    {
+      "text": "Tie in a yellow hackle by the tip so the fibers reach the hook point when wound.",
+      "img": "img/married-wing-mickey-finn/5.jpg"
+    },
+    {
+      "text": "Wind the hackle and bind it down into a beard under the hook, rather than tying in a bunch of fibers.",
+      "img": "img/married-wing-mickey-finn/6.jpg"
+    },
+    {
+      "text": "Switch to black thread.",
+      "img": "img/married-wing-mickey-finn/7.jpg"
+    },
+    {
+      "text": "Tie in the married wings low and level, tips up and together, reaching the end of the tail. Trim the butts and form a black thread head, then whip finish.",
+      "img": "img/married-wing-mickey-finn/8.jpg"
+    },
+    {
+      "text": "Finish the head with penetrating head cement followed by a lacquer coat. The finished fly is shown.",
+      "img": "img/married-wing-mickey-finn/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Fly Fishers International (Fly of the Month, Dec 2025)",
+    "author": "Eric Austin",
+    "url": "https://www.flyfishersinternational.org/Fly-Tying-Group/Fly-of-the-Month/Married-Wing-Mickey-Fin"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "mr-jones-cranefly",
+  "name": "Mr. Jones Cranefly",
+  "kind": "Dry Fly",
+  "imitates": "An adult cranefly that skates, skips and hops on the surface; tied for hot afternoons and early mornings when the naturals are active.",
+  "sizes": "#10–14",
+  "recipe": [
+    [
+      "Hook",
+      "Tiemco 2487, #10-14"
+    ],
+    [
+      "Thread",
+      "6/0 tan Uni-Thread and 18/0 Semperfli Nano Silk"
+    ],
+    [
+      "Underbody",
+      "McFlylon or similar yarn"
+    ],
+    [
+      "Abdomen",
+      "2mm x 3mm cinnamon foam strip"
+    ],
+    [
+      "Articulation",
+      "0X (0.012 in.) mono"
+    ],
+    [
+      "Legs",
+      "Tan Flex-Floss Micro"
+    ],
+    [
+      "Wings",
+      "Bleached moose body hair"
+    ],
+    [
+      "Wingcase",
+      "Cinnamon 3mm foam"
+    ],
+    [
+      "Thorax",
+      "Cinnamon caddis Superfine dubbing"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Mount a fine sewing needle in the vise, wax it, wrap a thread base and tie McFlylon on top of the needle, then wrap back to a stopping point.",
+      "img": "img/mr-jones-cranefly/1.jpg"
+    },
+    {
+      "text": "Cut a 2mm foam sliver, tie it on top of the needle about a third of the way along and wrap it back to the stopping point.",
+      "img": "img/mr-jones-cranefly/2.jpg"
+    },
+    {
+      "text": "Add a mono loop at the front of the extended abdomen, glue the underbody, then wrap the foam strip forward in overlapping turns with a taper at the front. Tie off and whip finish.",
+      "img": "img/mr-jones-cranefly/3.jpg"
+    },
+    {
+      "text": "Twist the body off the needle, then pull the tag thread out the back to cinch the underbody. Trim the tag and yarn flush.",
+      "img": "img/mr-jones-cranefly/4.jpg"
+    },
+    {
+      "text": "In a Tiemco 2487, tie a stacked bunch of bleached moose hair behind the eye as the forward wing, matched to the abdomen length.",
+      "img": "img/mr-jones-cranefly/5.jpg"
+    },
+    {
+      "text": "Tie the extended body on by its mono stub, fold the mono into a loop and bind it down. Dub a small ball and tie in barred Flex-Floss legs on each side of it.",
+      "img": "img/mr-jones-cranefly/6.jpg"
+    },
+    {
+      "text": "Bind a wider strip of foam along the top of the shank, glue the tie-down area and dub a ball-shaped thorax.",
+      "img": "img/mr-jones-cranefly/7.jpg"
+    },
+    {
+      "text": "Tie in a second matched clump of moose hair on top between the thorax and the forward wing.",
+      "img": "img/mr-jones-cranefly/8.jpg"
+    },
+    {
+      "text": "Split that clump into two side wings, draw the foam strip forward between them and tie it down gently to form the wingcase.",
+      "img": "img/mr-jones-cranefly/9.jpg"
+    },
+    {
+      "text": "Prop the forward wing up with a small thread head, whip finish, color the body, legs and thorax with markers, trim the legs and fan the wings flat.",
+      "img": "img/mr-jones-cranefly/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Fly Fisherman",
+    "author": "Charlie Craven",
+    "url": "https://www.flyfisherman.com/editorial/charlie-cravens-mister-jones-cranefly/493310"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "balanced-leech",
+  "name": "Balanced Leech",
+  "kind": "Streamer",
+  "imitates": "A leech that hangs level in the water instead of nose-down, usually fished under an indicator in stillwater; colors are endless.",
+  "sizes": "#8–12",
+  "recipe": [
+    [
+      "Hook",
+      "Daiichi 4647 jig hook, #8-12"
+    ],
+    [
+      "Thread",
+      "Danville 70 denier Flymaster"
+    ],
+    [
+      "Bead",
+      "Tungsten bead, sized to hook"
+    ],
+    [
+      "Tail",
+      "Senyo's Fusion Dub or STS Trilobal Dub"
+    ],
+    [
+      "Body",
+      "Same dubbing, spun in a loop"
+    ],
+    [
+      "Extension",
+      "Push pin, clipped to length"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Cut a push pin to about 5/8 in. and slide the bead on backwards, wide opening toward the pin head.",
+      "img": "img/balanced-leech/1.jpg"
+    },
+    {
+      "text": "Start thread behind the bead against the pin head and build a ramp to lock the bead, then whip finish and cut the thread.",
+      "img": "img/balanced-leech/2.jpg"
+    },
+    {
+      "text": "Secure the pin and bead on top of the hook with snug (not tight) wraps so you can still slide it, then cut the thread free.",
+      "img": "img/balanced-leech/3.jpg"
+    },
+    {
+      "text": "Hang the hook from tippet through the eye to check the balance and slide the pin until the fly hangs nearly level.",
+      "img": "img/balanced-leech/4.jpg"
+    },
+    {
+      "text": "Re-start the thread near the barb and tie in a small pinch of dubbing on top of the shank for the tail.",
+      "img": "img/balanced-leech/5.jpg"
+    },
+    {
+      "text": "Fold the dubbing back on itself to form the tail and wrap over the fold to lock it.",
+      "img": "img/balanced-leech/6.jpg"
+    },
+    {
+      "text": "Make a 5-6 in. dubbing loop and spin a sparse, even rope of the same dubbing, picking out trapped fibers.",
+      "img": "img/balanced-leech/7.jpg"
+    },
+    {
+      "text": "Wrap the dubbing rope forward from the bend to the bead, stroking the fibers back after each turn, then tie off, whip finish and trim.",
+      "img": "img/balanced-leech/8.jpg"
+    },
+    {
+      "text": "Finished Balanced Leech: sparse shaggy body and tail behind the bead.",
+      "img": "img/balanced-leech/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Fishwest Blog",
+    "author": "Fishwest Admin",
+    "url": "https://blog.fishwest.com/fly-tying-tutorial-the-balanced-leech/"
+  }
+}

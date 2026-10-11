@@ -1,0 +1,13 @@
+# Bench & Bank on Anton (Unraid). The image is loaded from deploy/bench-and-bank-anton.tar.gz, not built here.
+services:
+  bench-and-bank:
+    image: bench-and-bank:anton
+    container_name: bench-and-bank
+    restart: unless-stopped
+    ports:
+      - "5183:5183"   # open to the LAN; there is no login
+    environment:
+      MONGO_URL: mongodb://192.168.4.55:27017/flyfishing
+      ALLOWED_HOSTS: anton,anton.local
+    volumes:
+      - /mnt/user/appdata/bench-and-bank/data:/app/data   # must be writable by uid 1000 (the container's user)

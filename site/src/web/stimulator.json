@@ -1,0 +1,20 @@
+{
+  "id": "stimulator",
+  "name": "Stimulator",
+  "kind": "Dry Fly",
+  "imitates": "A high-floating, bushy stonefly, hopper or large caddis adult; hard to beat on western rivers in summer and as a dropper rig carrier.",
+  "sizes": "#6–16",
+  "recipe": [["Hook", "Curved-shank dry fly hook"], ["Thread", "Orange 8/0 Uni-Thread"], ["Tail", "Deer hair"], ["Rib", "Fine copper wire"], ["Body", "Yellow four-strand nylon floss"], ["Body hackle", "Brown dry-fly hackle"], ["Wing", "Deer hair"], ["Thorax hackle", "Grizzly dry-fly hackle"], ["Head", "Orange four-strand floss"]],
+  "steps": [
+    {"text": "Start the thread about three-quarters of the way up the shank of the curved hook.", "img": "img/stimulator/1.jpg"},
+    {"text": "Clean and stack a small clump of deer hair and tie it in above the barb as the tail. Go easy on thread pressure so it does not flare, then bind down the butts.", "img": "img/stimulator/2.jpg"},
+    {"text": "Tie in a length of fine copper wire; it will rib the body and lock in the hackle.", "img": "img/stimulator/3.jpg"},
+    {"text": "Tie in a strip of yellow floss about halfway up the shank and wrap it down and back up to form the body.", "img": "img/stimulator/4.jpg"},
+    {"text": "Tie in a brown hackle where the body ends and palmer it back toward the tail.", "img": "img/stimulator/5.jpg"},
+    {"text": "Counter-wrap the copper wire forward through the hackle to secure it, then trim off the leftovers.", "img": "img/stimulator/6.jpg"},
+    {"text": "Clean and stack a second, larger clump of deer hair and tie it in over the top of the body as the wing, again without over-tightening.", "img": "img/stimulator/7.jpg"},
+    {"text": "Tie in a long grizzly hackle ahead of the wing, add a strip of orange floss, and build a small tapered head toward the eye.", "img": "img/stimulator/8.jpg"},
+    {"text": "Wind the grizzly hackle forward into a large bushy collar, whip finish and cement. The finished Stimulator.", "img": "img/stimulator/9.jpg"}
+  ],
+  "source": {"name": "Bass Pro Shops 1Source", "author": "Jason Akl", "url": "https://1source.basspro.com/news-tips/fly-tying/5180/how-tie-stimulator-fly-step-step-instructions"}
+}

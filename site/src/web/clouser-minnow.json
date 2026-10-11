@@ -1,0 +1,84 @@
+{
+  "id": "clouser-minnow",
+  "name": "Clouser Minnow",
+  "kind": "Streamer",
+  "imitates": "A baitfish; lead eyes give it a jigging action and ride the hook point up. Catches almost anything that eats bait, from trout to bass to saltwater species.",
+  "sizes": "#2/0–6",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 811S, #2/0-6"
+    ],
+    [
+      "Thread",
+      "3/0 or 6/0, white"
+    ],
+    [
+      "Eyes",
+      "Painted lead dumbbell eyes, sized to hook"
+    ],
+    [
+      "Belly",
+      "White bucktail"
+    ],
+    [
+      "Flash",
+      "Gold Krystal Flash"
+    ],
+    [
+      "Back",
+      "Chartreuse bucktail"
+    ],
+    [
+      "Nose tag",
+      "Chartreuse tying thread"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Lay a smooth thread base over the front third of the shank.",
+      "img": "img/clouser-minnow/1.jpg"
+    },
+    {
+      "text": "Place the lead eyes about three eye lengths behind the hook eye and lash them on with several X wraps, alternating front to back and back to front.",
+      "img": "img/clouser-minnow/2.jpg"
+    },
+    {
+      "text": "Post the thread around the base of the eyes, passing between the eyes and the shank, to lock them on. Add a drop of head cement.",
+      "img": "img/clouser-minnow/3.jpg"
+    },
+    {
+      "text": "Straighten the eyes so they sit square across the shank.",
+      "img": "img/clouser-minnow/4.jpg"
+    },
+    {
+      "text": "Measure a clump of white bucktail about two shank lengths long (do not stack it) and tie it down behind the eyes with a band of thread.",
+      "img": "img/clouser-minnow/5.jpg"
+    },
+    {
+      "text": "Pull the butts back, cross the thread under the eyes, fold the butts forward and tie them down in front of the eyes. Trim the butts and smooth the head with thread.",
+      "img": "img/clouser-minnow/6.jpg"
+    },
+    {
+      "text": "Invert the hook, double four strands of Krystal Flash over the thread in front of the eyes and wrap back so the flash lies over the white bucktail.",
+      "img": "img/clouser-minnow/7.jpg"
+    },
+    {
+      "text": "Tie in a clump of chartreuse bucktail, the same size and length as the white, between the eyes and the hook eye. Trim the butts and build a smooth head.",
+      "img": "img/clouser-minnow/8.jpg"
+    },
+    {
+      "text": "Whip finish. Optionally add a narrow band of contrasting thread behind the eye as a nose tag, then cement the head.",
+      "img": "img/clouser-minnow/9.jpg"
+    },
+    {
+      "text": "Finished Clouser: white belly, chartreuse back with flash between, riding hook point up.",
+      "img": "img/clouser-minnow/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/clouser-minnow"
+  }
+}

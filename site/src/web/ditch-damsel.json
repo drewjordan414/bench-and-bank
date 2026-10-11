@@ -1,0 +1,92 @@
+{
+  "id": "ditch-damsel",
+  "name": "Ditch Damsel",
+  "kind": "Nymph",
+  "imitates": "A damselfly nymph tied hook-point up with a two-tone wire body and marabou wing, so it swims slim, wiggly and snag-resistant in lakes, ponds and slow water.",
+  "sizes": "#8–12",
+  "recipe": [
+    [
+      "Hook",
+      "Long-shank hook, tied inverted"
+    ],
+    [
+      "Thread",
+      "Olive"
+    ],
+    [
+      "Underbody",
+      "Mirage tinsel"
+    ],
+    [
+      "Body",
+      "Two olive wires and one silver wire, wrapped together"
+    ],
+    [
+      "Eyes",
+      "Melted mono eyes, colored black"
+    ],
+    [
+      "Wing",
+      "Olive marabou"
+    ],
+    [
+      "Flank",
+      "Dyed gold mallard fibers"
+    ],
+    [
+      "Thorax tuft",
+      "Olive rabbit fur"
+    ],
+    [
+      "Legs",
+      "Sili Legs"
+    ],
+    [
+      "Head",
+      "Olive dubbing"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Lay a smooth thread base, then wrap Mirage tinsel forward over it to the hook eye and tie it off.",
+      "img": "img/ditch-damsel/1.jpg"
+    },
+    {
+      "text": "Catch two olive wires and one silver wire behind the eye and wrap them back together in tight turns to the bend, leaving a short tinsel tag. Twist the wire ends off flush.",
+      "img": "img/ditch-damsel/2.jpg"
+    },
+    {
+      "text": "Invert the hook and lash melted mono eyes about an eye length behind the hook eye with X wraps.",
+      "img": "img/ditch-damsel/3.jpg"
+    },
+    {
+      "text": "Tie in a squared marabou feather behind the eyes so it extends a shank length past the bend.",
+      "img": "img/ditch-damsel/4.jpg"
+    },
+    {
+      "text": "Add four to six mottled mallard fibers behind the eyes, a few on each side of the wing, and trim the butts.",
+      "img": "img/ditch-damsel/5.jpg"
+    },
+    {
+      "text": "Tear a sparse clump of olive rabbit fur from the hide, about half the wing length, and bind it on top behind the eyes. Trim the butts.",
+      "img": "img/ditch-damsel/6.jpg"
+    },
+    {
+      "text": "Loop Sili Legs around the shank in front of the eyes and lay them along the sides. Dub a thin thread.",
+      "img": "img/ditch-damsel/7.jpg"
+    },
+    {
+      "text": "Color the eyes with a black marker, then fold the wing, rabbit and legs forward over the eye and prop them up with dubbing behind.",
+      "img": "img/ditch-damsel/8.jpg"
+    },
+    {
+      "text": "Dub forward in X wraps through the eyes into a round head, whip finish and trim the legs to the end of the wire body.",
+      "img": "img/ditch-damsel/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/ditch-damsel"
+  }
+}

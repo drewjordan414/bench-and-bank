@@ -1,0 +1,108 @@
+{
+  "id": "copper-john",
+  "name": "Copper John",
+  "kind": "Nymph",
+  "imitates": "A heavy, flashy generic mayfly and stonefly nymph; the go-to weighted point fly that gets a rig down fast.",
+  "sizes": "#10–18",
+  "recipe": [
+    [
+      "Hook",
+      "Nymph hook, #16 shown (Mouche 8443)"
+    ],
+    [
+      "Bead",
+      "2 mm tungsten, countersunk, gold"
+    ],
+    [
+      "Weight",
+      "0.015 in lead wire"
+    ],
+    [
+      "Thread",
+      "White 14/0, colored black at the head"
+    ],
+    [
+      "Tail",
+      "Brown goose biots"
+    ],
+    [
+      "Abdomen",
+      "Copper wire"
+    ],
+    [
+      "Wing case",
+      "Flash and scud back material, UV resin"
+    ],
+    [
+      "Thorax",
+      "Peacock herl"
+    ],
+    [
+      "Legs",
+      "Black hen neck feather"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Slide a countersunk bead on the hook, small hole first, and leave it at the eye.",
+      "img": "img/copper-john/1.jpg"
+    },
+    {
+      "text": "With the hook locked in the vise, wrap 10-12 turns of lead wire behind the bead and push the coil snug against it.",
+      "img": "img/copper-john/2.jpg"
+    },
+    {
+      "text": "Lock the thread on, then wrap back to the start of the bend, level with the barb.",
+      "img": "img/copper-john/3.jpg"
+    },
+    {
+      "text": "Tie in a pair of goose biots as a forked tail, flared apart and about half the body length.",
+      "img": "img/copper-john/4.jpg"
+    },
+    {
+      "text": "Tie in copper wire at the front of the abdomen, bring the thread to the tail, then wrap the wire forward in touching turns and tie it off.",
+      "img": "img/copper-john/5.jpg"
+    },
+    {
+      "text": "Just behind the bead, tie in a strip of flash and a strip of scud back on top of the shank, running back over the abdomen.",
+      "img": "img/copper-john/6.jpg"
+    },
+    {
+      "text": "Tie in two peacock herls with their tips trimmed even, just behind the bead.",
+      "img": "img/copper-john/7.jpg"
+    },
+    {
+      "text": "Wrap the herl forward in tight turns with no gaps to form the thorax and tie it off at the bead.",
+      "img": "img/copper-john/8.jpg"
+    },
+    {
+      "text": "Cut a V-notch in the tip of a hen feather and tie it in on top of the shank with the notch facing back for the legs, using loose wraps.",
+      "img": "img/copper-john/9.jpg"
+    },
+    {
+      "text": "Pull the scud back forward over the thorax and secure it with loose wraps, then tug the feather base to shorten the legs to the right length.",
+      "img": "img/copper-john/10.jpg"
+    },
+    {
+      "text": "Pull the flash over the wing case, secure it, and trim the flash, scud back and feather close to the bead.",
+      "img": "img/copper-john/11.jpg"
+    },
+    {
+      "text": "Color the thread black with a marker, tidy the head with a few wraps, and whip finish twice.",
+      "img": "img/copper-john/12.jpg"
+    },
+    {
+      "text": "Spread a couple of drops of UV resin over the wing case and the back of the bead and cure it with a UV torch.",
+      "img": "img/copper-john/13.jpg"
+    },
+    {
+      "text": "The finished Copper John.",
+      "img": "img/copper-john/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-copper-john/"
+  }
+}

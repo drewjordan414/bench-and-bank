@@ -1,0 +1,52 @@
+{
+  "id": "mop-fly",
+  "name": "Mop Fly",
+  "kind": "Nymph",
+  "imitates": "A generic worm, cranefly larva or caddis larva silhouette; a bulky, fast-sinking mop-chenille fly that works for trout, carp and panfish.",
+  "sizes": "#10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 2487 BL, #10"
+    ],
+    [
+      "Bead",
+      "4.0 mm slotted tungsten"
+    ],
+    [
+      "Thread",
+      "Veevus 8/0 black"
+    ],
+    [
+      "Body",
+      "Mop chenille (BC Fishing Supplies)"
+    ],
+    [
+      "Collar",
+      "Dubbing of choice"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Put the bead on the hook and lay down a thread base behind it; a heavy slotted bead gets the fly down quickly.",
+      "img": "img/mop-fly/1.jpg"
+    },
+    {
+      "text": "Decide the mop body length; here it extends about one hook length past the bend. Trim it shorter for small-mouthed fish.",
+      "img": "img/mop-fly/2.jpg"
+    },
+    {
+      "text": "Put cement or super glue on top of the shank so the mop cannot spin, then tie the mop down with tight wraps (compress it or strip a little to reach the core) and add a drop of glue.",
+      "img": "img/mop-fly/3.jpg"
+    },
+    {
+      "text": "Add a dubbing collar: spread a small pinch of aligned dubbing around the hook and secure it with two or three tight wraps, repeating for a fuller collar. Whip finish behind the bead. The finished fly.",
+      "img": "img/mop-fly/4.jpg"
+    }
+  ],
+  "source": {
+    "name": "Fishwest Blog",
+    "author": "Spencer Mortensen",
+    "url": "https://blog.fishwest.com/mop-fly-tutorial/"
+  }
+}

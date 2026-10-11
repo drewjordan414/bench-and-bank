@@ -1,0 +1,64 @@
+{
+  "id": "walts-worm",
+  "name": "Walt's Worm",
+  "kind": "Nymph",
+  "imitates": "A cranefly larva, grub or cased caddis; a plain dubbed-body fly that keeps catching trout in Pennsylvania and New York streams. This is the tyer's wire-weighted variant that blends Walt Young's method with Sawyer's Killer Bug materials.",
+  "sizes": "#12–16",
+  "recipe": [
+    [
+      "Hook",
+      "1X long nymph hook, #12-16 (#14 shown)"
+    ],
+    [
+      "Thread",
+      "Tan Serafil 200 or 6/0 Uni"
+    ],
+    [
+      "Weight",
+      "28 ga. copper wire"
+    ],
+    [
+      "Body",
+      "Wool yarn made into dubbing (Patons Classic Wool), or Hare's Ear Plus"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread behind the eye and wrap touching turns back to the bend.",
+      "img": "img/walts-worm/1.jpg"
+    },
+    {
+      "text": "Put a drop of super glue on the thread wraps so the wire will not slip.",
+      "img": "img/walts-worm/2.jpg"
+    },
+    {
+      "text": "Start copper wire at the bend and wind it forward in touching turns.",
+      "img": "img/walts-worm/3.jpg"
+    },
+    {
+      "text": "Stop the wire about one eye length behind the eye and break off the leftover ends.",
+      "img": "img/walts-worm/4.jpg"
+    },
+    {
+      "text": "Dub the thread with the wool dubbing.",
+      "img": "img/walts-worm/5.jpg"
+    },
+    {
+      "text": "Wind the dubbing forward, forming a slight carrot shape.",
+      "img": "img/walts-worm/6.jpg"
+    },
+    {
+      "text": "Whip finish twice and cut the thread.",
+      "img": "img/walts-worm/7.jpg"
+    },
+    {
+      "text": "The finished fly.",
+      "img": "img/walts-worm/8.jpg"
+    }
+  ],
+  "source": {
+    "name": "FlyAnglers Online forum",
+    "author": "dr_korn",
+    "url": "https://www.flyanglersonline.com/t/tying-walts-worm-a-step-by-step/48658"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "barr-emerger",
+  "name": "Barr Emerger",
+  "kind": "Nymph",
+  "imitates": "John Barr's Baetis emerger; it sits in or just under the film, imitating a small mayfly shedding its shuck during blue-winged olive hatches.",
+  "sizes": "#16–24",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 2487 or 2488 (H) #16-24"
+    ],
+    [
+      "Thread",
+      "Iron dun 8/0"
+    ],
+    [
+      "Tail",
+      "Brown spade hackle fibers"
+    ],
+    [
+      "Abdomen",
+      "Olive-brown superfine dubbing"
+    ],
+    [
+      "Wingcase",
+      "Dark dun spade hackle fibers"
+    ],
+    [
+      "Thorax",
+      "Gray muskrat or beaver dubbing"
+    ],
+    [
+      "Legs",
+      "Leftover tips of wingcase fibers"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Attach the thread and wrap a base back about halfway down the bend.",
+      "img": "img/barr-emerger/1.jpg"
+    },
+    {
+      "text": "Peel ten or twelve fibers from a prepared brown spade hackle and tie them in at the bend without flaring them, as they imitate the shuck rather than a tail.",
+      "img": "img/barr-emerger/2.jpg"
+    },
+    {
+      "text": "Wrap forward over the butts to the 60% point and clip the remaining butts.",
+      "img": "img/barr-emerger/3.jpg"
+    },
+    {
+      "text": "Dub the thread with olive-brown superfine and build a tapered abdomen from the tail base to the 75% point.",
+      "img": "img/barr-emerger/4.jpg"
+    },
+    {
+      "text": "Overlap the thread back onto the abdomen, then tie in a dozen dark dun spade hackle fibers by their butts at the front of the abdomen and clip the butts flush.",
+      "img": "img/barr-emerger/5.jpg"
+    },
+    {
+      "text": "Dub thinly with gray beaver, starting at the rear of the index point, work back to the wingcase base and forward again to form a ball-shaped thorax.",
+      "img": "img/barr-emerger/6.jpg"
+    },
+    {
+      "text": "Pull the dun fibers forward over the top of the thorax as a wingcase and tie them down at the index point.",
+      "img": "img/barr-emerger/7.jpg"
+    },
+    {
+      "text": "Pull half of the remaining fiber tips back along the far side of the hook and bind them with two tight turns.",
+      "img": "img/barr-emerger/8.jpg"
+    },
+    {
+      "text": "Pull the other half back along the near side the same way, keeping the fibers along the sides of the hook as legs.",
+      "img": "img/barr-emerger/9.jpg"
+    },
+    {
+      "text": "Build a smooth thread head and whip finish at the index point.",
+      "img": "img/barr-emerger/10.jpg"
+    },
+    {
+      "text": "Trim the legs to the length of the wingcase and the tail to about half a shank. The finished Barr Emerger.",
+      "img": "img/barr-emerger/11.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/barr-emerger"
+  }
+}

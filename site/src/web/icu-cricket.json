@@ -1,0 +1,92 @@
+{
+  "id": "icu-cricket",
+  "name": "ICU Cricket",
+  "kind": "Dry Fly",
+  "imitates": "A foam cricket with a segmented body, knotted rear legs and a flashy wing; fished along banks and in hopper country in late summer.",
+  "sizes": "#8–12",
+  "recipe": [
+    [
+      "Hook",
+      "Tiemco 2302"
+    ],
+    [
+      "Thread",
+      "UTC 140"
+    ],
+    [
+      "Eyes",
+      "Hareline mono eyes, medium black"
+    ],
+    [
+      "Dubbing",
+      "Hareline Ice Dub, peacock"
+    ],
+    [
+      "Body and rear legs",
+      "2mm black foam"
+    ],
+    [
+      "Flash",
+      "Krystal Flash"
+    ],
+    [
+      "Front legs",
+      "Flexi-Floss"
+    ],
+    [
+      "Wing",
+      "Hareline micro thin foam"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Tie the mono eyes on near the front of the hook with figure-eight wraps and glue them.",
+      "img": "img/icu-cricket/1.jpg"
+    },
+    {
+      "text": "Cut a strip of 2mm foam as wide as the hook gap and twice the hook length with a V point on one end, and push the hook point through it about a third from the flat end.",
+      "img": "img/icu-cricket/2.jpg"
+    },
+    {
+      "text": "Slide the foam to the rear of the hook, wrap the thread back to the barb and bind the foam on the underside above the barb. Dub the thread to cover the wraps.",
+      "img": "img/icu-cricket/3.jpg"
+    },
+    {
+      "text": "Repeat to make two body segments covering about two thirds of the shank, then cut small holes at the joints and pull the V point forward over the eye.",
+      "img": "img/icu-cricket/4.jpg"
+    },
+    {
+      "text": "Cut two right-triangle foam legs, knot a piece of Flexi-Floss and seat the foam tip in each knot.",
+      "img": "img/icu-cricket/5.jpg"
+    },
+    {
+      "text": "Tie each assembled leg in at the last body segment, angled upward and out.",
+      "img": "img/icu-cricket/6.jpg"
+    },
+    {
+      "text": "Tie about twelve strands of Krystal Flash in between the rear legs and trim just behind the body.",
+      "img": "img/icu-cricket/7.jpg"
+    },
+    {
+      "text": "Cut a micro thin foam wing with a V notch at the rear and tie it on in front of the legs.",
+      "img": "img/icu-cricket/8.jpg"
+    },
+    {
+      "text": "Add a short piece of Flexi-Floss on each side of the thorax as front legs, then dub the thorax generously.",
+      "img": "img/icu-cricket/9.jpg"
+    },
+    {
+      "text": "Tie a small strip of foam in front of the dubbing to push the wing and legs down, and trim it behind the eyes.",
+      "img": "img/icu-cricket/10.jpg"
+    },
+    {
+      "text": "Finished ICU Cricket: black foam body, spread legs and wing. A peep sight is optional.",
+      "img": "img/icu-cricket/11.jpg"
+    }
+  ],
+  "source": {
+    "name": "Syracuse Troutfitter (via American Made Flies)",
+    "author": "Chase Pritchett",
+    "url": "https://www.cnytroutfitter.com/blogs/news-on-the-fly/american-made-flies-chases-icu-cricket"
+  }
+}

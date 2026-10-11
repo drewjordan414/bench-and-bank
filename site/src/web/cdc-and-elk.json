@@ -1,0 +1,76 @@
+{
+  "id": "cdc-and-elk",
+  "name": "CDC & Elk",
+  "kind": "Dry Fly",
+  "imitates": "A CDC-bodied, deer hair winged caddis/mayfly-style dry; it floats high and the loose CDC collar mimics the emerging legs, good on flat or slightly broken water.",
+  "sizes": "#12–20",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 100SP-BL #12-20"
+    ],
+    [
+      "Thread",
+      "UNI 8/0 or GSP 50, brown"
+    ],
+    [
+      "Body/Hackle",
+      "Tan or natural dun CDC"
+    ],
+    [
+      "Wing",
+      "Deer hair"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread behind the eye and wrap a smooth base back to the bend.",
+      "img": "img/cdc-and-elk/1.jpg"
+    },
+    {
+      "text": "Pick a long CDC feather with tapering fibers. Separate the fibers at the tip and tie the tip in with a loose turn, leaving some fibers loose beyond the tie-in to form the collar.",
+      "img": "img/cdc-and-elk/2.jpg"
+    },
+    {
+      "text": "Pull the tip down to bunch its fibers along the top of the shank, then wrap forward over it to build a thread base up to the index point.",
+      "img": "img/cdc-and-elk/3.jpg"
+    },
+    {
+      "text": "Grab the butt of the feather in hackle pliers and wrap it forward; the first turns will look like dubbing.",
+      "img": "img/cdc-and-elk/4.jpg"
+    },
+    {
+      "text": "Over the front third of the body let the loose fibers splay around the hook like a soft hackle, folding them back as needed, and wrap forward to a ragged collar.",
+      "img": "img/cdc-and-elk/5.jpg"
+    },
+    {
+      "text": "Fold the loose fibers back, tie off the feather at the index point, clip the butt flush and smooth a thread base over it.",
+      "img": "img/cdc-and-elk/6.jpg"
+    },
+    {
+      "text": "Cut, clean and stack a bundle of deer hair, sparse for flat water and heavier for rough, measured from behind the eye to the bend. Lay it along the shank with butts just behind the eye.",
+      "img": "img/cdc-and-elk/7.jpg"
+    },
+    {
+      "text": "Put two stacked turns of thread over the hair about an eye length from the butts, then pull the bobbin to tighten so the butts flare into a semi-circle.",
+      "img": "img/cdc-and-elk/8.jpg"
+    },
+    {
+      "text": "Make two turns forward through the butt ends at about 45 degrees to lock the hair and bring the thread up behind the eye.",
+      "img": "img/cdc-and-elk/9.jpg"
+    },
+    {
+      "text": "Whip finish in front of the hair butts and clip the thread.",
+      "img": "img/cdc-and-elk/10.jpg"
+    },
+    {
+      "text": "The finished CDC & Elk, side view, with the CDC collar sloping back under the fly.",
+      "img": "img/cdc-and-elk/11.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/cdc-elk"
+  }
+}

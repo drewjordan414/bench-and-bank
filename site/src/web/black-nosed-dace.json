@@ -1,0 +1,72 @@
+{
+  "id": "black-nosed-dace",
+  "name": "Black Nosed Dace",
+  "kind": "Streamer",
+  "imitates": "A slim bucktail minnow imitation, classic in the East and a good small trailer fly behind a heavier pattern.",
+  "sizes": "#2–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 765 TC, #2-10"
+    ],
+    [
+      "Thread",
+      "70 denier, black"
+    ],
+    [
+      "Tail",
+      "Red Darlon"
+    ],
+    [
+      "Body",
+      "Flat silver mylar tinsel"
+    ],
+    [
+      "Wing",
+      "White, black and brown bucktail, layered"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap a thread base behind the return wire, tie in a strand of red Darlon on top of the shank and wrap back over it to the bend. Trim the tail to about one gap width later.",
+      "img": "img/black-nosed-dace/1.jpg"
+    },
+    {
+      "text": "Tie in flat mylar tinsel gold side up, wrap back to the tail, then fold it and wrap forward silver side up in tight, slightly overlapping turns. Tie off.",
+      "img": "img/black-nosed-dace/2.jpg"
+    },
+    {
+      "text": "Trim the tinsel stub and build a smooth thread base from the body to the eye, leaving a small gap behind the eye for a clean head later.",
+      "img": "img/black-nosed-dace/3.jpg"
+    },
+    {
+      "text": "Tie in a sparse, unstacked clump of white bucktail with a narrow band at the front of the body, tips just past the tail.",
+      "img": "img/black-nosed-dace/4.jpg"
+    },
+    {
+      "text": "Trim the butts at an angle so they form a ramp, then smooth a thread base over them.",
+      "img": "img/black-nosed-dace/5.jpg"
+    },
+    {
+      "text": "Tie in an equally sparse clump of black bucktail on top of the white, the same length, and trim the butts at an angle.",
+      "img": "img/black-nosed-dace/6.jpg"
+    },
+    {
+      "text": "Tie in a like-sized clump of brown bucktail on top, keeping the thread wraps toward the rear, and cut the butts at a slightly steeper angle.",
+      "img": "img/black-nosed-dace/7.jpg"
+    },
+    {
+      "text": "Build a smooth, slightly tapered thread head over the butts, whip finish and coat the head with two layers of lacquer.",
+      "img": "img/black-nosed-dace/8.jpg"
+    },
+    {
+      "text": "Finished Black Nosed Dace: slim silver body, red tail, white belly, black lateral line and brown back.",
+      "img": "img/black-nosed-dace/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/black-nosed-dace"
+  }
+}

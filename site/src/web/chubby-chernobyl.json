@@ -1,0 +1,96 @@
+{
+  "id": "chubby-chernobyl",
+  "name": "Chubby Chernobyl",
+  "kind": "Dry Fly",
+  "imitates": "A big, buoyant foam attractor that passes for a stonefly, hopper or cicada and carries a dropper nymph through summer pocket water.",
+  "sizes": "#4–14",
+  "recipe": [
+    [
+      "Hook",
+      "Tiemco 5262 #4-8 or Umpqua XT050 #10-14"
+    ],
+    [
+      "Thread",
+      "Tan 6/0 UNI-Thread"
+    ],
+    [
+      "Body",
+      "Emergence dubbing, hare's ear"
+    ],
+    [
+      "Overbody",
+      "Black over tan 3 mm foam, two layers"
+    ],
+    [
+      "Legs",
+      "Gold/amber and black Fly Enhancer Legs"
+    ],
+    [
+      "Wing",
+      "Polypropylene macrame yarn, blended grays, browns and golds"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Staple two foam sheets together and cut matched strips about as wide as the hook gap so the two layers line up.",
+      "img": "img/chubby-chernobyl/1.jpg"
+    },
+    {
+      "text": "Lay a thread base on the shank, glue it lightly, and dub a small nub over the bend up to the point. Leave the thread hanging there.",
+      "img": "img/chubby-chernobyl/2.jpg"
+    },
+    {
+      "text": "Set both foam strips on top of the dubbing, butts extending half a shank length past the bend, and bind them down with three firm wraps.",
+      "img": "img/chubby-chernobyl/3.jpg"
+    },
+    {
+      "text": "Halve four strands of leg material and tie two along each side of the foam, centered on the lower strip.",
+      "img": "img/chubby-chernobyl/4.jpg"
+    },
+    {
+      "text": "For the wing, brush out and blend several colors of polypropylene yarn into one mix.",
+      "img": "img/chubby-chernobyl/5.jpg"
+    },
+    {
+      "text": "Cut a clump about 3 inches long and lay its middle over the tie-down point. Bind it with three stacked wraps.",
+      "img": "img/chubby-chernobyl/6.jpg"
+    },
+    {
+      "text": "Dub a tight noodle and wrap it in front of the wing base to wedge it upright, holding the wing and legs back.",
+      "img": "img/chubby-chernobyl/7.jpg"
+    },
+    {
+      "text": "Keep dubbing to the eye and back, stopping just short of the eye with the thread hanging on top. Add a drop of glue.",
+      "img": "img/chubby-chernobyl/8.jpg"
+    },
+    {
+      "text": "Pull both foam strips down flat over the dubbing and secure them with three tight turns of thread.",
+      "img": "img/chubby-chernobyl/9.jpg"
+    },
+    {
+      "text": "Tie in the front set of legs the same way as the rear set.",
+      "img": "img/chubby-chernobyl/10.jpg"
+    },
+    {
+      "text": "Tie in a second wing clump, dub a collar in front of it to prop it up, work to the eye under the foam, and whip finish.",
+      "img": "img/chubby-chernobyl/11.jpg"
+    },
+    {
+      "text": "Smear a little glue between the foam layers at front and rear and squeeze them together, keeping the ends angled slightly up.",
+      "img": "img/chubby-chernobyl/12.jpg"
+    },
+    {
+      "text": "Fluff both wings upright and trim them to about a shank length.",
+      "img": "img/chubby-chernobyl/13.jpg"
+    },
+    {
+      "text": "Shag out the belly dubbing, trim the legs a bit shorter than the shank, and round off the foam corners front and back.",
+      "img": "img/chubby-chernobyl/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/chubby-chernobyl-elevated"
+  }
+}

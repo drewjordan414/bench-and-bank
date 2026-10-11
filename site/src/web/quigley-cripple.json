@@ -1,0 +1,88 @@
+{
+  "id": "quigley-cripple",
+  "name": "Quigley Cripple",
+  "kind": "Dry Fly",
+  "imitates": "A crippled mayfly dun stuck in its shuck, with a marabou tail-and-abdomen and a deer hair wing; Bob Quigley's design works for most mayfly hatches when sizes and colors are changed.",
+  "sizes": "#12–22",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 100 #12-22"
+    ],
+    [
+      "Thread",
+      "8/0"
+    ],
+    [
+      "Rib",
+      "Fine copper wire"
+    ],
+    [
+      "Tail/Abdomen",
+      "Brown marabou fibers"
+    ],
+    [
+      "Thorax",
+      "Superfine dubbing"
+    ],
+    [
+      "Wing",
+      "Natural deer hair"
+    ],
+    [
+      "Hackle",
+      "Grizzly rooster"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread, tie in a piece of fine copper wire and wrap back over it to the bend.",
+      "img": "img/quigley-cripple/1.jpg"
+    },
+    {
+      "text": "Peel several marabou fibers off a feather, even their tips and tie them in at the bend with two turns. The tail should be about half a shank long.",
+      "img": "img/quigley-cripple/2.jpg"
+    },
+    {
+      "text": "Lift the marabou butt ends out of the way and bring the thread forward to the starting point.",
+      "img": "img/quigley-cripple/3.jpg"
+    },
+    {
+      "text": "Wrap the marabou butts forward to the starting point as the abdomen and tie off. Clip the excess.",
+      "img": "img/quigley-cripple/4.jpg"
+    },
+    {
+      "text": "Spiral the copper wire forward through the marabou abdomen, tie it off at the front and clip the excess.",
+      "img": "img/quigley-cripple/5.jpg"
+    },
+    {
+      "text": "Dub a small ball of superfine dubbing at the front of the abdomen, leaving at least an eye length of bare shank ahead of it.",
+      "img": "img/quigley-cripple/6.jpg"
+    },
+    {
+      "text": "Cut, clean and stack a clump of deer hair, measured to a shank length.",
+      "img": "img/quigley-cripple/7.jpg"
+    },
+    {
+      "text": "Tie the deer hair in just ahead of the dubbing with several tight turns and clip the butts to a short brush.",
+      "img": "img/quigley-cripple/8.jpg"
+    },
+    {
+      "text": "Tie in a grizzly hackle by its butt in the space between the hair butts and the base of the hair tips.",
+      "img": "img/quigley-cripple/9.jpg"
+    },
+    {
+      "text": "Wrap the hackle three turns, tie off and clip. Whip finish and trim the thread.",
+      "img": "img/quigley-cripple/10.jpg"
+    },
+    {
+      "text": "The finished Quigley Cripple.",
+      "img": "img/quigley-cripple/11.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/quigley-cripple"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "perdigon",
+  "name": "Perdigon",
+  "kind": "Nymph",
+  "imitates": "A slim, fast-sinking mayfly or midge nymph with a smooth resin-coated body; built for Euro-style nymphing in tailwaters and fast water.",
+  "sizes": "#12–18",
+  "recipe": [
+    [
+      "Hook",
+      "Nymph hook, #14 shown (Mouche 8423)"
+    ],
+    [
+      "Bead",
+      "3.5 mm tungsten, copper, countersunk"
+    ],
+    [
+      "Weight",
+      "Lead wire"
+    ],
+    [
+      "Thread",
+      "White 50D, plus fluorescent orange for the thorax"
+    ],
+    [
+      "Tail",
+      "Coq de Leon fibers"
+    ],
+    [
+      "Abdomen",
+      "Perdigon body material"
+    ],
+    [
+      "Wing case",
+      "Brown marker, UV resin"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Slide a countersunk bead on the hook, small hole first, up to the eye.",
+      "img": "img/perdigon/1.jpg"
+    },
+    {
+      "text": "With the hook in the vise, lock the thread on and make 6-8 wraps of lead wire behind the bead.",
+      "img": "img/perdigon/2.jpg"
+    },
+    {
+      "text": "Push the lead wire forward against the bead to hold it in place and form the thorax foundation.",
+      "img": "img/perdigon/3.jpg"
+    },
+    {
+      "text": "Re-attach the thread behind the lead and lay a smooth thread foundation over the wire, flattening the thread to avoid bulk.",
+      "img": "img/perdigon/4.jpg"
+    },
+    {
+      "text": "Tie in a 4 inch length of fluorescent orange thread at the base of the lead and bind it back to the bend.",
+      "img": "img/perdigon/5.jpg"
+    },
+    {
+      "text": "Measure 6-8 Coq de Leon fibers to the length of the whole body including the bead and tie them in at the bend as a tail.",
+      "img": "img/perdigon/6.jpg"
+    },
+    {
+      "text": "Pull the orange thread forward between the tail fibers to split them in half, secure it and trim.",
+      "img": "img/perdigon/7.jpg"
+    },
+    {
+      "text": "Tie in the Perdigon body material and wrap it back to the base of the tail and forward in a tapered abdomen covering two thirds of the shank.",
+      "img": "img/perdigon/8.jpg"
+    },
+    {
+      "text": "Tie off the body material, then use the orange thread to cover all underlying material and build the thorax, about a third of the body. Whip finish.",
+      "img": "img/perdigon/9.jpg"
+    },
+    {
+      "text": "Coat the top and bottom of the fly with thin UV resin, spreading it with a bodkin into a taper, and cure it.",
+      "img": "img/perdigon/10.jpg"
+    },
+    {
+      "text": "Color the top of the thorax with a brown marker to make a defined wing case.",
+      "img": "img/perdigon/11.jpg"
+    },
+    {
+      "text": "Add a drop of resin over the wing case and bead and cure it. The finished fly.",
+      "img": "img/perdigon/12.jpg"
+    }
+  ],
+  "source": {
+    "name": "Into Fly Fishing",
+    "author": "Pierre Joubert",
+    "url": "https://intoflyfishing.com/how-to-tie-a-perdigon-nymph/"
+  }
+}

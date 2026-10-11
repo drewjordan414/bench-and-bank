@@ -1,0 +1,108 @@
+{
+  "id": "green-drake-cripple",
+  "name": "Green Drake Cripple",
+  "kind": "Dry Fly",
+  "imitates": "A green drake emerger stuck half in its nymphal shuck in the surface film; fish it on flatter water during a drake hatch when trout key on struggling duns.",
+  "sizes": "#10–12",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 5212 #10-12, bent up at the front"
+    ],
+    [
+      "Thread",
+      "Olive 6/0"
+    ],
+    [
+      "Tail",
+      "Moose hock"
+    ],
+    [
+      "Rib",
+      "Fine copper wire"
+    ],
+    [
+      "Abdomen",
+      "Brown Haretron dubbing"
+    ],
+    [
+      "Hackle",
+      "Blue dun hen neck"
+    ],
+    [
+      "Underwing",
+      "Natural mallard CDC"
+    ],
+    [
+      "Overwing",
+      "Matched blue dun hen hackle tips"
+    ],
+    [
+      "Thorax",
+      "Olive superfine dubbing"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Bend the front quarter of the hook up about 25-30 degrees with pliers, without over-bending it.",
+      "img": "img/green-drake-cripple/1.jpg"
+    },
+    {
+      "text": "Start the thread at the bend and lay a base back to the hook bend. Tie in a small clump (6-8 fibers) of stacked moose hock as the tail, about half a shank long.",
+      "img": "img/green-drake-cripple/2.jpg"
+    },
+    {
+      "text": "Tie in copper wire, dub a thick tapered brown abdomen up to the kink, then spiral the wire forward in six to eight turns and break it off.",
+      "img": "img/green-drake-cripple/3.jpg"
+    },
+    {
+      "text": "Strip the base of a hen neck feather, tie it in at the front of the abdomen, fold the fibers back and wrap three tight turns. Clip the excess.",
+      "img": "img/green-drake-cripple/4.jpg"
+    },
+    {
+      "text": "Sweep the hackle fibers back with a few thread wraps over its base so it sits wet-fly style, then trim the fibers off the top of the body.",
+      "img": "img/green-drake-cripple/5.jpg"
+    },
+    {
+      "text": "Tie two matched CDC feathers in with opposed tips at the front of the abdomen, splayed away from the body. Clip the butts flush.",
+      "img": "img/green-drake-cripple/6.jpg"
+    },
+    {
+      "text": "Pair two webby hen hackle tips with opposed curves and measure them so they reach just past the CDC tips.",
+      "img": "img/green-drake-cripple/7.jpg"
+    },
+    {
+      "text": "Tie the hen tips in over the front of the abdomen with a pinch wrap and a narrow band of thread.",
+      "img": "img/green-drake-cripple/8.jpg"
+    },
+    {
+      "text": "Clip the butts flush, build a smooth thread base over the stubs and let the hen tips splay over the top.",
+      "img": "img/green-drake-cripple/9.jpg"
+    },
+    {
+      "text": "Pull the near wing down and forward to lie flat along the side, and prop the far wing up, so the wings are deliberately asymmetrical.",
+      "img": "img/green-drake-cripple/10.jpg"
+    },
+    {
+      "text": "Dub the thread with olive superfine and build a blocky thorax from the wing bases forward to one eye length behind the eye.",
+      "img": "img/green-drake-cripple/11.jpg"
+    },
+    {
+      "text": "Finish with bare thread behind the index point, whip finish and clip the thread.",
+      "img": "img/green-drake-cripple/12.jpg"
+    },
+    {
+      "text": "Turn the fly over and trim the hackle from the middle of the underside to expose the abdomen.",
+      "img": "img/green-drake-cripple/13.jpg"
+    },
+    {
+      "text": "The finished Green Drake Cripple, near side view.",
+      "img": "img/green-drake-cripple/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/green-drake-cripple"
+  }
+}

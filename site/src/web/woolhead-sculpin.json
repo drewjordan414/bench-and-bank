@@ -1,0 +1,88 @@
+{
+  "id": "woolhead-sculpin",
+  "name": "Woolhead Sculpin",
+  "kind": "Streamer",
+  "imitates": "A bottom-hugging sculpin; the wool head soaks up water and sinks, so it earns its place crawled slowly along riffles and deep pools on a sink-tip.",
+  "sizes": "#2–6",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 9395, #2-6"
+    ],
+    [
+      "Thread",
+      "140 denier or 3/0, black"
+    ],
+    [
+      "Weight",
+      "Lead wire"
+    ],
+    [
+      "Rib",
+      "Large chartreuse Ultra Wire"
+    ],
+    [
+      "Body",
+      "Chartreuse UV Ice Dub"
+    ],
+    [
+      "Wing",
+      "Olive rabbit strip, Matuka style"
+    ],
+    [
+      "Throat",
+      "Red wool"
+    ],
+    [
+      "Head",
+      "Olive wool, spun and trimmed"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap about twenty turns of lead wire on the shank, leaving the front quarter bare, then lay a thread base over it back to the bend.",
+      "img": "img/woolhead-sculpin/1.jpg"
+    },
+    {
+      "text": "Tie in the rib wire at the back of the lead and dub a thick, shaggy, slightly tapered body up to the front of the lead wraps.",
+      "img": "img/woolhead-sculpin/2.jpg"
+    },
+    {
+      "text": "Tie the rabbit strip in at the front of the body, catching only the tip of the hide so it does not build bulk. Trim the hide end to a taper first.",
+      "img": "img/woolhead-sculpin/3.jpg"
+    },
+    {
+      "text": "Part the fur above the barb and counter-wrap the wire forward in evenly spaced turns, parting the fur for each turn, to lock the strip down Matuka style. Tie off and stroke the fur back.",
+      "img": "img/woolhead-sculpin/4.jpg"
+    },
+    {
+      "text": "Flip the hook, comb out a clump of red wool and tie it under the shank at the front of the body as a throat that reaches just short of the hook point.",
+      "img": "img/woolhead-sculpin/5.jpg"
+    },
+    {
+      "text": "Build a thread base to the eye. Tie in a large clump of olive wool at the front of the body, letting it wrap 360 degrees around the shank, and pack it back.",
+      "img": "img/woolhead-sculpin/6.jpg"
+    },
+    {
+      "text": "Add a second clump of olive wool (butt ends only) at the front edge of the first, bind it down tightly and pull the thread to the front.",
+      "img": "img/woolhead-sculpin/7.jpg"
+    },
+    {
+      "text": "Brush the very bushy head out with a bodkin or dubbing brush to free loose fibers.",
+      "img": "img/woolhead-sculpin/8.jpg"
+    },
+    {
+      "text": "Trim the head flat across the bottom (without cutting the red throat) and across the top, then round the sides so the head flows into the wing as a teardrop.",
+      "img": "img/woolhead-sculpin/9.jpg"
+    },
+    {
+      "text": "Finished fly: wide, flat wool head, red throat showing underneath, and the rabbit strip trailing about two shank lengths behind.",
+      "img": "img/woolhead-sculpin/10.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/woolhead-sculpin"
+  }
+}

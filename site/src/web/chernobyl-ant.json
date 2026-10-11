@@ -1,0 +1,92 @@
+{
+  "id": "chernobyl-ant",
+  "name": "Chernobyl Ant",
+  "kind": "Dry Fly",
+  "imitates": "A buggy foam terrestrial that suggests a big ant, beetle or stonefly and floats a dropper nymph in summer.",
+  "sizes": "#4–12",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 5263 #4-12"
+    ],
+    [
+      "Thread",
+      "3/0 Monocord, black"
+    ],
+    [
+      "Back",
+      "3 mm black foam over 2 mm yellow foam"
+    ],
+    [
+      "Underbody",
+      "Olive Krystal Chenille"
+    ],
+    [
+      "Hackle",
+      "Brown rooster saddle"
+    ],
+    [
+      "Legs",
+      "Medium round rubber legs"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread behind the eye and wrap back to the bend. Cut a black and a yellow foam strip about as wide as the hook gap, with the ends notched to a point.",
+      "img": "img/chernobyl-ant/1.jpg"
+    },
+    {
+      "text": "Lay the black foam on the hook and tie it in at the bend.",
+      "img": "img/chernobyl-ant/2.jpg"
+    },
+    {
+      "text": "Lay the yellow strip on top of the black, overlapping at the rear, and tie it down with several tight wraps.",
+      "img": "img/chernobyl-ant/3.jpg"
+    },
+    {
+      "text": "Tie one rubber leg on each side of the hook at the foam tie-down point.",
+      "img": "img/chernobyl-ant/4.jpg"
+    },
+    {
+      "text": "Push the foam out of the way, tie in a rooster saddle feather by its butt, then tie in a length of chenille at the base of the foam.",
+      "img": "img/chernobyl-ant/5.jpg"
+    },
+    {
+      "text": "Wrap the chenille forward to the eye, tie it off and clip the excess.",
+      "img": "img/chernobyl-ant/6.jpg"
+    },
+    {
+      "text": "Palmer the hackle heavily up the hook to the front, tie it off and clip it.",
+      "img": "img/chernobyl-ant/7.jpg"
+    },
+    {
+      "text": "Fold the black foam forward over the body and tie it down behind the eye with a couple of tight wraps.",
+      "img": "img/chernobyl-ant/8.jpg"
+    },
+    {
+      "text": "Fold the yellow foam over the top of the black and tie it down on top of it.",
+      "img": "img/chernobyl-ant/9.jpg"
+    },
+    {
+      "text": "Tie one rubber leg in on each side of the fly at the front.",
+      "img": "img/chernobyl-ant/10.jpg"
+    },
+    {
+      "text": "Trim the front of the foam straight across, lift it, and whip finish behind the eye.",
+      "img": "img/chernobyl-ant/11.jpg"
+    },
+    {
+      "text": "Trim the legs to length.",
+      "img": "img/chernobyl-ant/12.jpg"
+    },
+    {
+      "text": "The finished Chernobyl Ant: black foam body with a yellow top, hackled underbody and rubber legs.",
+      "img": "img/chernobyl-ant/13.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/chernobyl-ant"
+  }
+}

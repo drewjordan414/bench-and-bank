@@ -1,0 +1,104 @@
+{
+  "id": "rogue-stone",
+  "name": "Rogue Stone",
+  "kind": "Dry Fly",
+  "imitates": "A foam-bodied salmonfly adult for the big western stonefly hatches; the segmented foam body, elk wing and bullet head make a buoyant, realistic silhouette.",
+  "sizes": "#4–8",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 200R #4-8"
+    ],
+    [
+      "Thread",
+      "Black or orange 3/0 Monocord"
+    ],
+    [
+      "Abdomen",
+      "White closed-cell foam, colored with marker"
+    ],
+    [
+      "Underwing",
+      "Mottled gray Web-Wing"
+    ],
+    [
+      "Flash",
+      "Root beer Krystal Flash"
+    ],
+    [
+      "Overwing",
+      "Natural cow elk hair or elk mane"
+    ],
+    [
+      "Head",
+      "Natural gray deer hair, bullet head"
+    ],
+    [
+      "Legs",
+      "Black round rubber, medium or small"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Cut a foam strip five or six inches long and as wide as the hook gap. Poke a hatpin through its center and clamp the pin in the vise to pre-form the extended body.",
+      "img": "img/rogue-stone/1.jpg"
+    },
+    {
+      "text": "Start the thread on the pin in front of the foam, slide the foam up to it, fold both sides forward along the pin, and make three tight turns of thread to form the first segment.",
+      "img": "img/rogue-stone/2.jpg"
+    },
+    {
+      "text": "Pull the sides back and repeat for a total of three segments on the pin. Whip finish on top of the third segment, clip the thread, and withdraw the pin.",
+      "img": "img/rogue-stone/3.jpg"
+    },
+    {
+      "text": "The result is a segmented body blank with two foam tails trailing from it.",
+      "img": "img/rogue-stone/4.jpg"
+    },
+    {
+      "text": "Start the thread on the hook and lay a base from the 75 percent point back to just in front of the point, staying on the straight part of the shank. Place the blank with its foam strips along the sides of the shank and make the next segment.",
+      "img": "img/rogue-stone/5.jpg"
+    },
+    {
+      "text": "Keep folding the strips back and making equal segments up the shank for four in all, leaving about a quarter shank length at the front.",
+      "img": "img/rogue-stone/6.jpg"
+    },
+    {
+      "text": "Clip the excess foam flush and color the body with a permanent marker. The first segment can be black for an egg sac.",
+      "img": "img/rogue-stone/7.jpg"
+    },
+    {
+      "text": "Cut a Web-Wing strip as wide as the gap with a rounded end and tie it on top of the last foam segment so it just passes the end of the body.",
+      "img": "img/rogue-stone/8.jpg"
+    },
+    {
+      "text": "Tie in five strands of root beer Krystal Flash by their centers over the wing base and fold the forward strands back over the body.",
+      "img": "img/rogue-stone/9.jpg"
+    },
+    {
+      "text": "Clean and stack a pencil-thick clump of elk hair, measured to just past the foam body, and tie it on at the front of the body so it flares. Trim the butts and wrap a tight thread base to the eye.",
+      "img": "img/rogue-stone/10.jpg"
+    },
+    {
+      "text": "Stack a large clump of gray deer hair, place the butts just behind the eye, and spin it around the hook with three semi-tight turns, spreading it 360 degrees.",
+      "img": "img/rogue-stone/11.jpg"
+    },
+    {
+      "text": "Push the end of a pen tube over the hair to compress it back into a bullet head, then lock it with a few turns of thread behind the tube.",
+      "img": "img/rogue-stone/12.jpg"
+    },
+    {
+      "text": "Hold the hair tips out of the way, tie a 3-inch piece of round rubber in on each side at the joint between head and collar, and whip finish there. Trim the legs, about half as long in front.",
+      "img": "img/rogue-stone/13.jpg"
+    },
+    {
+      "text": "The finished Rogue Stone, side view.",
+      "img": "img/rogue-stone/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/rogue-stone"
+  }
+}

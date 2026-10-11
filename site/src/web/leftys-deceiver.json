@@ -1,0 +1,84 @@
+{
+  "id": "leftys-deceiver",
+  "name": "Lefty's Deceiver",
+  "kind": "Streamer",
+  "imitates": "A baitfish streamer with a feather tail that swims with a lot of kick; tied all white it covers shad and other pale baits, in fresh or salt water.",
+  "sizes": "#3/0–8",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 811S, #3/0-8"
+    ],
+    [
+      "Thread",
+      "3/0 Monocord, white"
+    ],
+    [
+      "Tail",
+      "Four white saddle hackles"
+    ],
+    [
+      "Body",
+      "Lagartun mini flat braid, pearl"
+    ],
+    [
+      "Collar",
+      "White bucktail, topped with a contrasting bucktail"
+    ],
+    [
+      "Flash",
+      "Pearl Krystal Flash"
+    ],
+    [
+      "Topping",
+      "Peacock herl"
+    ],
+    [
+      "Eyes",
+      "Painted red with black pupil (optional)"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Wrap a thread base from two eye lengths behind the eye back to the bend, then forward to just ahead of the hook point.",
+      "img": "img/leftys-deceiver/1.jpg"
+    },
+    {
+      "text": "Match four white saddle feathers into two opposed pairs, two to three shank lengths long, strip the quills, and tie them in four across the top. Wrap back over the bases to lock them in.",
+      "img": "img/leftys-deceiver/2.jpg"
+    },
+    {
+      "text": "Double a 12-inch length of mini flat braid, tie it in at the front of the thread base and wrap it back to the tail and forward again for a smooth double-layer body.",
+      "img": "img/leftys-deceiver/3.jpg"
+    },
+    {
+      "text": "Cut a clump of white bucktail (unstacked, extra-long and short fibers removed), measure it to about halfway up the tail and work it around the shank so it surrounds the hook.",
+      "img": "img/leftys-deceiver/4.jpg"
+    },
+    {
+      "text": "Tie it down with a couple of loose turns, then tighten them. Trim the butt ends at a downward slope and smooth the head.",
+      "img": "img/leftys-deceiver/5.jpg"
+    },
+    {
+      "text": "Tie in a few strands of Krystal Flash on top at their center, fold the front ends back and secure them.",
+      "img": "img/leftys-deceiver/6.jpg"
+    },
+    {
+      "text": "Tie in a second, contrasting clump of bucktail on the top and slightly down the sides, the same length as the white collar, and trim its butts.",
+      "img": "img/leftys-deceiver/7.jpg"
+    },
+    {
+      "text": "Measure six or seven peacock herls to reach the bucktail tips and tie them on top, flat over the bucktail.",
+      "img": "img/leftys-deceiver/8.jpg"
+    },
+    {
+      "text": "Trim the butts, build a smooth thread head and whip finish. Coat the head with gloss coat; red eyes with black pupils can be painted on once it is dry.",
+      "img": "img/leftys-deceiver/9.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/deceiver"
+  }
+}

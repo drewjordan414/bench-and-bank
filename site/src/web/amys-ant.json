@@ -1,0 +1,24 @@
+{
+  "id": "amys-ant",
+  "name": "Amy's Ant",
+  "kind": "Dry Fly",
+  "imitates": "Jack Dennis's foam terrestrial that doubles as a hopper, cicada or big stonefly; tough, very buoyant and a strong dropper-rig fly.",
+  "sizes": "#6–12",
+  "recipe": [["Hook", "Tiemco 5262 or 5263, #6-12"], ["Thread", "Brown or tan 3/0 Monocord"], ["Underbody", "2 mm tan foam"], ["Overbody", "2 mm tan, rust or purple foam"], ["Body", "Olive Krystal Chenille"], ["Hackle", "Brown rooster, trimmed short"], ["Underwing", "Rainbow Krystal Flash"], ["Overwing", "Cow or yearling elk hair"], ["Thorax", "Bronze Arizona Synthetic Peacock dubbing"], ["Legs", "Medium brown round rubber legs"]],
+  "steps": [
+    {"text": "Wrap a thread base to the bend. Cut a tan foam strip slightly narrower than the gap, clip its corners, and tie it in at the bend with the rounded end just past the bend.", "img": "img/amys-ant/1.jpg"},
+    {"text": "Cut a darker foam strip about as wide as the gap, notch the end into a V, and tie it down on top of the first strip the same way.", "img": "img/amys-ant/2.jpg"},
+    {"text": "Tie a rubber leg on each side at the foam tie-in, then fold the dark foam and legs back over the bend, binding them temporarily out of the way with a scrap of lead wire.", "img": "img/amys-ant/3.jpg"},
+    {"text": "Move the thread to the eye, pull the tan foam forward and bind it flat just behind the eye, then spiral back to the bend. Tie in a brown rooster hackle by its butt at the bend.", "img": "img/amys-ant/4.jpg"},
+    {"text": "Move the thread just past halfway, tie in olive Krystal Chenille, and wrap back to the bend. Return the thread and wrap the chenille forward in even turns, then tie off and clip.", "img": "img/amys-ant/5.jpg"},
+    {"text": "Palmer the hackle forward in four or five turns, tie off, and trim the fibers short all around the body.", "img": "img/amys-ant/6.jpg"},
+    {"text": "Release the lead wire, fold the top foam forward over the chenille, and tie it down firmly at the front edge of the body.", "img": "img/amys-ant/7.jpg"},
+    {"text": "Lay a clump of multicolored flash over the thread, tie it in at its center, and fold the front ends back over the body.", "img": "img/amys-ant/8.jpg"},
+    {"text": "Clean and stack a generous clump of elk hair, measured from the front of the body to the end of the foam past the bend.", "img": "img/amys-ant/9.jpg"},
+    {"text": "Tie the elk hair in with two taut wraps, holding the tips, and continue forward through the hair to anchor it firmly.", "img": "img/amys-ant/10.jpg"},
+    {"text": "Dub the thorax behind the eye, then pull the top foam back over the fly and anchor it with a couple of tight turns.", "img": "img/amys-ant/11.jpg"},
+    {"text": "Tie one rubber leg on each side of the thorax in the foam crease and trim the legs to about a shank length.", "img": "img/amys-ant/12.jpg"},
+    {"text": "Trim the top foam to a point and the tan foam to a short lip over the eye, then whip finish in the crease. A set of finished Amy's Ants.", "img": "img/amys-ant/13.jpg"}
+  ],
+  "source": {"name": "Fly Fisherman", "author": "Charlie Craven", "url": "https://www.flyfisherman.com/editorial/tying-the-amy-s-ant/365381"}
+}

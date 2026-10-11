@@ -1,0 +1,92 @@
+{
+  "id": "trico-spinner",
+  "name": "Trico Spinner",
+  "kind": "Dry Fly",
+  "imitates": "A spent Trico mayfly lying flat in the film; the hackle through the thorax makes the tiny fly easier to see and float.",
+  "sizes": "#18–26",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 101 #18-26"
+    ],
+    [
+      "Thread",
+      "Black 10/0 (male) or pale olive 8/0 (female)"
+    ],
+    [
+      "Tails",
+      "3 white microfibbetts"
+    ],
+    [
+      "Abdomen",
+      "Tying thread"
+    ],
+    [
+      "Hackle",
+      "Grizzly neck or saddle"
+    ],
+    [
+      "Wings",
+      "White McFlylon"
+    ],
+    [
+      "Thorax",
+      "Black superfine dubbing"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Set aside an eight-inch piece of thread, attach the thread to the hook and wrap a thin base back to the bend.",
+      "img": "img/trico-spinner/1.jpg"
+    },
+    {
+      "text": "Tie in three microfibbetts at least twice the shank length, then bring the thread forward so the tails sit slightly elevated and separate.",
+      "img": "img/trico-spinner/2.jpg"
+    },
+    {
+      "text": "Loop the spare piece of thread around the bend, pull it up between the center tail and the outer tails to splay them into three single fibers, and bind it down.",
+      "img": "img/trico-spinner/3.jpg"
+    },
+    {
+      "text": "Clip the butts and the loop ends, then build a smooth thread abdomen from the bend to about 70% of the shank.",
+      "img": "img/trico-spinner/4.jpg"
+    },
+    {
+      "text": "Strip the end of a grizzly hackle and tie it in at the front of the abdomen, then lay a thread base forward to the eye and back to the middle of the thorax.",
+      "img": "img/trico-spinner/5.jpg"
+    },
+    {
+      "text": "Tie a small clump of white McFlylon to the hook at an angle with a couple of thread turns.",
+      "img": "img/trico-spinner/6.jpg"
+    },
+    {
+      "text": "Pull the far wing forward so the wings sit perpendicular to the hook and X-wrap over the center to lock them.",
+      "img": "img/trico-spinner/7.jpg"
+    },
+    {
+      "text": "Dub the thread very thinly and wrap a pronounced thorax from the abdomen forward through the wings, X-wrapping through them as you go.",
+      "img": "img/trico-spinner/8.jpg"
+    },
+    {
+      "text": "Palmer the hackle forward through the thorax, three turns behind the wings and two in front. Tie off and clip.",
+      "img": "img/trico-spinner/9.jpg"
+    },
+    {
+      "text": "Whip finish at the eye, clip the thread and cut the wings to one shank length.",
+      "img": "img/trico-spinner/10.jpg"
+    },
+    {
+      "text": "Trim the hackle flat across the bottom, as close to the thorax as you can.",
+      "img": "img/trico-spinner/11.jpg"
+    },
+    {
+      "text": "The finished Trico Spinner, front view.",
+      "img": "img/trico-spinner/12.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/trico-spinner"
+  }
+}

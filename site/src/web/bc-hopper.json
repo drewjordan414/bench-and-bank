@@ -1,0 +1,112 @@
+{
+  "id": "bc-hopper",
+  "name": "BC Hopper",
+  "kind": "Dry Fly",
+  "imitates": "A very buoyant foam hopper with an extended body, an elk wing and a bullet head; floats a dropper nymph and gets eaten on grassy banks in late summer.",
+  "sizes": "#4–10",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 5262 #4-10"
+    ],
+    [
+      "Thread",
+      "3/0 Monocord, tan"
+    ],
+    [
+      "Body",
+      "3 mm tan foam"
+    ],
+    [
+      "Binder strip",
+      "Scrap of 3 mm foam"
+    ],
+    [
+      "Adhesive",
+      "Zap-A-Gap"
+    ],
+    [
+      "Hopper legs",
+      "Tan round rubber"
+    ],
+    [
+      "Underwing",
+      "Mottled tan Web-Wing"
+    ],
+    [
+      "Flash",
+      "Root beer Krystal Flash"
+    ],
+    [
+      "Overwing",
+      "Elk hair"
+    ],
+    [
+      "Head",
+      "Natural deer hair, bullet head"
+    ],
+    [
+      "Indicator",
+      "Pink McFlylon or Float Viz"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Cut a 4-inch foam strip as wide as the hook gap, stretch it slightly, and thread the hook through it. Lay a thread base from three eye lengths back to the bend and tie a small foam binder strip along the top of the shank as a gluing surface.",
+      "img": "img/bc-hopper/1.jpg"
+    },
+    {
+      "text": "Pass the hook eye through a small hole cut in the foam so the strip sits on the hook in two places, then slide it back to the bend, leaving about 3 mm free at the front.",
+      "img": "img/bc-hopper/2.jpg"
+    },
+    {
+      "text": "Coat the top of the foam with Zap-A-Gap, fold the front section back over the hook, and press the two halves together until the glue grabs.",
+      "img": "img/bc-hopper/3.jpg"
+    },
+    {
+      "text": "Starting at the bend, make 3-5 stacked turns for the first segment. Work forward with a diagonal travel wrap and more vertical turns for three equal segments and a slightly shorter fourth.",
+      "img": "img/bc-hopper/4.jpg"
+    },
+    {
+      "text": "Pull the extension up and make one clean razor cut to give it a diagonal shape.",
+      "img": "img/bc-hopper/5.jpg"
+    },
+    {
+      "text": "Trim the sides of the extension to the same width as the body, then tie in two knotted three-strand rubber legs along the sides, catching each in two body segments. Trim the butts.",
+      "img": "img/bc-hopper/6.jpg"
+    },
+    {
+      "text": "Cut a rounded strip of Web-Wing as wide as the gap and tie it in at the front of the first segment as an underwing, then add 8 strands of root beer Krystal Flash on top.",
+      "img": "img/bc-hopper/7.jpg"
+    },
+    {
+      "text": "Stack a clump of elk hair that reaches the bend and tie it on with a light turn and a downward pull to flare the butts. Trim, leaving a short stub, and thread to the eye.",
+      "img": "img/bc-hopper/8.jpg"
+    },
+    {
+      "text": "Stack a shank-length clump of deer hair, place its butts behind the eye and spin it around the hook, then spread it into a full 360-degree collar.",
+      "img": "img/bc-hopper/9.jpg"
+    },
+    {
+      "text": "Push a pen tube over the hair to force it back against the thread, then lock it with tight wraps to flare the bullet head.",
+      "img": "img/bc-hopper/10.jpg"
+    },
+    {
+      "text": "Pin the collar and back legs out of the way with a turn of lead wire. Tie in a short rubber leg at the base of the head and a brushed clump of pink McFlylon on top as the indicator, then whip finish.",
+      "img": "img/bc-hopper/11.jpg"
+    },
+    {
+      "text": "Clip the indicator to collar length, trim the back legs to about two-thirds of a shank, and trim the bottom deer hair flush to expose the foam underbody.",
+      "img": "img/bc-hopper/12.jpg"
+    },
+    {
+      "text": "Mottle the legs with permanent markers and cement the thread collar. The finished BC Hopper.",
+      "img": "img/bc-hopper/13.jpg"
+    }
+  ],
+  "source": {
+    "name": "Charlie's Fly Box",
+    "author": "",
+    "url": "https://charliesflybox.com/blogs/step-by-step-tutorials/bc-hopper"
+  }
+}

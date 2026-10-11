@@ -1,0 +1,44 @@
+/* Hallmark tokens · theme: custom "Field guide" — modelled on reference sites that work (All About Birds, Hatch, Troutbitten):
+ * near-white page, one deep river green, a little brass, and the photographs doing the rest. No texture, no costume. */
+:root {
+  --color-paper: oklch(98.6% 0.005 100);
+  --color-paper-2: oklch(95.6% 0.012 115);
+  --color-ink: oklch(23% 0.02 165);
+  --color-ink-2: oklch(43% 0.02 165);
+  --color-rule: oklch(87% 0.014 120);
+  --color-field: oklch(62% 0.02 165);          /* input borders: 3:1 against the page */
+  --color-brand: oklch(37% 0.065 165);
+  --color-brand-ink: oklch(97% 0.01 100);
+  --color-bar: oklch(37% 0.065 165 / 0.22);
+  --color-bar-on: oklch(37% 0.065 165 / 0.5);
+  --color-brass: oklch(66% 0.12 78);
+  --color-danger: oklch(48% 0.17 27);
+  --color-focus: oklch(50% 0.15 250);
+
+  --font-display: "Alegreya", "Iowan Old Style", Georgia, serif;
+  --font-body: "Alegreya Sans", "Gill Sans", "Trebuchet MS", sans-serif;
+
+  --text-xs: 0.875rem;
+  --text-sm: 1rem;
+  --text-base: 1.125rem;      /* Alegreya Sans runs small */
+  --text-lg: 1.3rem;
+  --text-xl: 1.5rem;
+  --text-display: clamp(1.9rem, 1.35rem + 2.3vw, 2.9rem);
+
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  --rule-hair: 1px solid var(--color-rule);
+  --radius: 4px;
+  --measure: 60ch;
+  --page: 76rem;
+
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --dur-fast: 120ms;
+}

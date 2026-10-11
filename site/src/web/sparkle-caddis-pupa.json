@@ -1,0 +1,92 @@
+{
+  "id": "sparkle-caddis-pupa",
+  "name": "Sparkle Caddis Pupa",
+  "kind": "Wet Fly",
+  "imitates": "Gary LaFontaine's emergent caddis pupa; the Antron shuck traps air bubbles like the gas sheath on a real hatching pupa. Fish it in the film or as a dropper behind a dry during a caddis hatch.",
+  "sizes": "#12–20",
+  "recipe": [
+    [
+      "Hook",
+      "TMC 100SP-BL #12-20"
+    ],
+    [
+      "Thread",
+      "Brown 8/0"
+    ],
+    [
+      "Shuck",
+      "Tan sparkle yarn"
+    ],
+    [
+      "Body",
+      "Pale olive Haretron dubbing"
+    ],
+    [
+      "Head",
+      "Black marabou"
+    ]
+  ],
+  "steps": [
+    {
+      "text": "Start the thread two eye lengths behind the eye, wrap a thread base to the bend and return to the starting point.",
+      "img": "img/sparkle-caddis-pupa/1.jpg"
+    },
+    {
+      "text": "Tie in a third of a strand of tan sparkle yarn at the starting point.",
+      "img": "img/sparkle-caddis-pupa/2.jpg"
+    },
+    {
+      "text": "Pull the yarn around the shank toward the bend, wrap back over it to the bend, then return the thread to mid-shank.",
+      "img": "img/sparkle-caddis-pupa/3.jpg"
+    },
+    {
+      "text": "Dub a reverse-tapered abdomen, thin at the front and fuller toward the rear, ending at the bend.",
+      "img": "img/sparkle-caddis-pupa/4.jpg"
+    },
+    {
+      "text": "Wrap the thread forward over the dubbed abdomen in open spirals to the front.",
+      "img": "img/sparkle-caddis-pupa/5.jpg"
+    },
+    {
+      "text": "Press the yarn forward from the bend so it encircles the body.",
+      "img": "img/sparkle-caddis-pupa/6.jpg"
+    },
+    {
+      "text": "Pull the yarn tightly forward past the hook eye.",
+      "img": "img/sparkle-caddis-pupa/7.jpg"
+    },
+    {
+      "text": "Push it back again to leave some slack over the body, forming a loose shroud.",
+      "img": "img/sparkle-caddis-pupa/8.jpg"
+    },
+    {
+      "text": "Tie the yarn off at the front of the abdomen.",
+      "img": "img/sparkle-caddis-pupa/9.jpg"
+    },
+    {
+      "text": "Pick out a little yarn on top with scissor tips and cut it near the front so it trails back as the shuck. Clip the excess yarn and build a thread base over the butts.",
+      "img": "img/sparkle-caddis-pupa/10.jpg"
+    },
+    {
+      "text": "Peel a few fibers from a black marabou feather.",
+      "img": "img/sparkle-caddis-pupa/11.jpg"
+    },
+    {
+      "text": "Tie the marabou fibers in by their tips at the front of the body and clip the tips.",
+      "img": "img/sparkle-caddis-pupa/12.jpg"
+    },
+    {
+      "text": "Wrap the marabou forward to the eye, tie off, clip the excess, build a smooth thread head and whip finish.",
+      "img": "img/sparkle-caddis-pupa/13.jpg"
+    },
+    {
+      "text": "The finished Sparkle Caddis Pupa.",
+      "img": "img/sparkle-caddis-pupa/14.jpg"
+    }
+  ],
+  "source": {
+    "name": "Fly Fisherman",
+    "author": "Charlie Craven",
+    "url": "https://www.flyfisherman.com/editorial/fly-tying-sparkle-caddis-pupae/152040"
+  }
+}
