@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- A classic wet fly in silhouette: barred wing swept back over the body, a beard of hackle under the throat, round-bend hook. -->
+  <style>
+    .ink { stroke: #111; } .fill { fill: #111; }
+    @media (prefers-color-scheme: dark) { .ink { stroke: #fff; } .fill { fill: #fff; } }
+  </style>
+  <mask id="bars">
+    <rect width="64" height="64" fill="#fff"/>
+    <path stroke="#000" stroke-width="1.6" d="M16 9l4 9M23 9.500l4 11M30 11l4 12M37 13.500l3.500 11.500M44 17l2.500 9"/>
+  </mask>
+  <path class="fill" mask="url(#bars)" d="M57 27C47 14 26 6 5 11c8 2 13 5 18 9 8 5.500 18 8.500 28 9.500z"/>
+  <path class="fill" d="M50 26.500c3-2.500 7.500-3 10.500-1.500-1.500 3.500-6 5.500-10 4.500z"/>
+  <path class="ink" stroke-width="3" d="M51 29.500C42 31 32 31 23 30"/>
+  <path class="ink" stroke-width="2.400" d="M23 30C10 30 5 44 13 51c6.500 5.500 17 2 18-7"/>
+  <path class="ink" stroke-width="1.300" d="M47 31 25 44M47.500 31.500 30 49M48 32 36 52M48.500 32 42 52M49 32l-1.500 18"/>
+</svg>
